@@ -489,6 +489,14 @@ footer {
     max-width: 800px;
 }
 
+.author-bio p {
+    margin-bottom: 1rem;
+}
+
+.author-bio p:last-child {
+    margin-bottom: 0;
+}
+
 .author-texts h2 {
     color: var(--accent-color);
     margin-bottom: 1.5rem;
