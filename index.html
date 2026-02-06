@@ -51,9 +51,10 @@ lang: es
             <div class="featured-card">
 				<h3>Textos Recientes</h3>
 				<ul>
-					<li><a href="/es/textos/pedro-albizu-campos/oracion">Oración - Albizu Campos</a></li>
-					<li><a href="/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo">Puerto Rico y la Conferencia Mundial del Comercio y el Empleo - Corretjer</a></li>
-					<li><a href="/es/textos/juan-antonio-corretjer/el-heroe">El Héroe - Corretjer</a></li>
+					{% assign es_texts = site.texts | where: "lang", "es" | sort: "date" | reverse %}
+					{% for text in es_texts limit:3 %}
+					<li><a href="{{ text.url }}">{{ text.title }} - {{ text.author_name | split: " " | last }}</a></li>
+					{% endfor %}
 				</ul>
 			</div>
             <div class="featured-card">

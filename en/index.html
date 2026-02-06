@@ -54,9 +54,10 @@ permalink: /en/
             <div class="featured-card">
                 <h3>Recent Texts</h3>
                 <ul>
-                    <li><a href="/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo">Puerto Rico and the World Trade and Employment Conference - Corretjer</a></li>
-                    <li><a href="/en/texts/juan-antonio-corretjer/the-hero">The Hero - Corretjer</a></li>
-                    <li><a href="/en/texts/eugenio-font-suarez/the-great-dilemma">The Great Dilemma - Font Suárez</a></li>
+                    {% assign en_texts = site.texts | where: "lang", "en" | sort: "date" | reverse %}
+                    {% for text in en_texts limit:3 %}
+                    <li><a href="{{ text.url }}">{{ text.title }} - {{ text.author_name | split: " " | last }}</a></li>
+                    {% endfor %}
                 </ul>
             </div>
 
