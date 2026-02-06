@@ -46,3 +46,4 @@ exclude:
   - LICENSE
   - CONTRIBUTING.md
   - CLAUDE.md
+  - "primary source research.md"
