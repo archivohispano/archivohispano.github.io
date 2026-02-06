@@ -5,7 +5,7 @@ function toggleTheme() {
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
     html.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
-    
+
     // Update button icons
     document.querySelectorAll('.theme-toggle, .control-btn, .mobile-text-controls button').forEach(btn => {
         if (btn.textContent === '🌙' || btn.textContent === '☀️') {
@@ -18,74 +18,44 @@ function toggleTheme() {
 function toggleLanguage() {
     const currentPath = window.location.pathname;
     let newPath = currentPath;
-    
+
     // Remove trailing slash if present (except for root)
     if (currentPath.endsWith('/') && currentPath !== '/') {
         newPath = currentPath.slice(0, -1);
     }
-    
-    // Handle homepage special case
-    if (newPath === '/' || newPath === '') {
-        window.location.href = '/en/';
-        return;
-    }
-    
-    if (newPath === '/en' || newPath === '/en/') {
-        window.location.href = '/';
-        return;
-    }
-    
-   // Specific mappings for texts that have different URLs
-const pathMappings = {
-    // Homepage
-    '/': '/en/',
-    '/en': '/',
-    
-    // Albizu Campos
-    '/es/textos/pedro-albizu-campos/concepto-de-la-raza': '/en/texts/pedro-albizu-campos/concept-of-race',
-    '/en/texts/pedro-albizu-campos/concept-of-race': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
-    '/es/autores/pedro-albizu-campos': '/en/autores/pedro-albizu-campos',
-    '/en/autores/pedro-albizu-campos': '/es/autores/pedro-albizu-campos',
-    '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948': '/en/texts/pedro-albizu-campos/day-of-the-race-1948',
-    '/en/texts/pedro-albizu-campos/day-of-the-race-1948': '/es/textos/pedro-albizu-campos/dia-de-la-raza-1948',
-    '/es/textos/pedro-albizu-campos/oracion': '/en/texts/pedro-albizu-campos/prayer',
-    '/en/texts/pedro-albizu-campos/prayer': '/es/textos/pedro-albizu-campos/oracion',
-    
-    // Juan Antonio Corretjer
-    '/es/autores/juan-antonio-corretjer': '/en/autores/juan-antonio-corretjer',
-    '/en/autores/juan-antonio-corretjer': '/es/autores/juan-antonio-corretjer',
-    '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional': '/en/texts/juan-antonio-corretjer/prolegomena-national-unity',
-    '/en/texts/juan-antonio-corretjer/prolegomena-national-unity': '/es/textos/juan-antonio-corretjer/prolegomenos-unidad-nacional',
-    '/es/textos/juan-antonio-corretjer/el-heroe': '/en/texts/juan-antonio-corretjer/the-hero',
-    '/en/texts/juan-antonio-corretjer/the-hero': '/es/textos/juan-antonio-corretjer/el-heroe',
-    '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-    '/en/texts/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo': '/es/textos/juan-antonio-corretjer/puerto-rico-y-la-conferencia-mundial-del-comercio-y-el-empleo',
-    
-    // Eugenio Font Suárez
-    '/es/autores/eugenio-font-suarez': '/en/autores/eugenio-font-suarez',
-    '/en/autores/eugenio-font-suarez': '/es/autores/eugenio-font-suarez',
-    '/es/textos/eugenio-font-suarez/el-gran-dilema': '/en/texts/eugenio-font-suarez/the-great-dilemma',
-    '/en/texts/eugenio-font-suarez/the-great-dilemma': '/es/textos/eugenio-font-suarez/el-gran-dilema',
-    
-    // General pages
-    '/es/autores': '/en/autores',
-    '/en/autores': '/es/autores',
-    '/es/paises': '/en/paises',
-    '/en/paises': '/es/paises',
-    '/es/paises/puerto-rico': '/en/paises/puerto-rico',
-    '/en/paises/puerto-rico': '/es/paises/puerto-rico'
-};
 
-console.log('Current path:', newPath);
-console.log('Mapping found:', pathMappings[newPath]);
-
-// Check if current path has a specific mapping
-    if (pathMappings[newPath]) {
-        window.location.href = pathMappings[newPath];
+    // Check if we're on a text page with an embedded alt-lang URL
+    const textPageData = document.getElementById('text-page-data');
+    if (textPageData && textPageData.dataset.altLangUrl) {
+        window.location.href = textPageData.dataset.altLangUrl;
         return;
     }
-    
-    // If no specific mapping found, show an alert
+
+    // Static page mappings (only pages that can't be auto-derived)
+    const staticMappings = {
+        '/': '/en/',
+        '/en': '/',
+        '/es/autores': '/en/autores',
+        '/en/autores': '/es/autores',
+        '/es/paises': '/en/paises',
+        '/en/paises': '/es/paises',
+        '/es/paises/puerto-rico': '/en/paises/puerto-rico',
+        '/en/paises/puerto-rico': '/es/paises/puerto-rico'
+    };
+
+    if (staticMappings[newPath]) {
+        window.location.href = staticMappings[newPath];
+        return;
+    }
+
+    // Auto-derive author page toggle: /es/autores/X <-> /en/autores/X
+    const authorMatch = newPath.match(/^\/(es|en)\/autores\/(.+)$/);
+    if (authorMatch) {
+        const targetLang = authorMatch[1] === 'es' ? 'en' : 'es';
+        window.location.href = '/' + targetLang + '/autores/' + authorMatch[2];
+        return;
+    }
+
     alert('Translation not available for this page / Traducción no disponible para esta página');
 }
 
@@ -111,7 +81,7 @@ function downloadText() {
     const textContent = document.querySelector('.text-content');
     const title = document.querySelector('.text-title');
     const author = document.querySelector('.text-author');
-    
+
     if (textContent && title && author) {
         const text = textContent.innerText;
         const metadata = `${title.innerText}\n${author.innerText}\n\n`;
@@ -125,6 +95,32 @@ function downloadText() {
     }
 }
 
+// Search functionality using Jekyll-generated index
+let searchIndex = null;
+
+function loadSearchIndex() {
+    if (searchIndex) return Promise.resolve(searchIndex);
+    return fetch('/search.json')
+        .then(r => r.json())
+        .then(data => { searchIndex = data; return data; });
+}
+
+function performSearch(query) {
+    const q = query.toLowerCase().trim();
+    if (!q) return [];
+
+    return searchIndex.filter(item => {
+        const fields = [
+            item.title,
+            item.author,
+            item.source,
+            item.country,
+            (item.collections || []).join(' ')
+        ].join(' ').toLowerCase();
+        return fields.includes(q);
+    });
+}
+
 // Load saved theme on page load
 document.addEventListener('DOMContentLoaded', function() {
     const savedTheme = localStorage.getItem('theme') || 'light';
@@ -134,40 +130,43 @@ document.addEventListener('DOMContentLoaded', function() {
             if (btn.textContent === '🌙') btn.textContent = '☀️';
         });
     }
-    
-    // Basic search functionality
+
+    // Search functionality
     const searchBox = document.querySelector('#searchBox');
     if (searchBox) {
+        // Detect language from page
+        const pageLang = document.documentElement.lang || 'es';
+        searchBox.setAttribute('placeholder',
+            pageLang === 'en'
+                ? 'Search authors, texts, or themes... (press Enter)'
+                : 'Buscar autores, textos, o temas... (presione Enter)'
+        );
+
         searchBox.addEventListener('keypress', function(e) {
             if (e.key === 'Enter') {
-                const query = e.target.value.toLowerCase().trim();
-                if (query) {
-                    // Basic search mapping
-                    const searchMappings = {
-                        'pedro albizu campos': '/es/autores/pedro-albizu-campos',
-                        'albizu': '/es/autores/pedro-albizu-campos',
-                        'concepto de la raza': '/es/textos/pedro-albizu-campos/concepto-de-la-raza',
-                        'concept of race': '/en/texts/pedro-albizu-campos/concept-of-race',
-                        'puerto rico': '/es/paises/puerto-rico'
-                    };
-                    
-                    // Check for matches
-                    for (let [term, url] of Object.entries(searchMappings)) {
-                        if (query.includes(term) || term.includes(query)) {
-                            window.location.href = url;
-                            return;
-                        }
-                    }
-                    
-                    // No matches found
-                    alert('No se encontraron resultados para: ' + query + '\nNo results found for: ' + query);
-                } else {
-                    alert('Por favor ingrese un término de búsqueda / Please enter a search term');
+                const query = e.target.value.trim();
+                if (!query) {
+                    alert(pageLang === 'en'
+                        ? 'Please enter a search term'
+                        : 'Por favor ingrese un término de búsqueda');
+                    return;
                 }
+
+                loadSearchIndex().then(() => {
+                    const results = performSearch(query);
+                    // Prefer results in the current page language
+                    const langResults = results.filter(r => r.lang === pageLang);
+                    const best = langResults.length > 0 ? langResults[0] : results[0];
+
+                    if (best) {
+                        window.location.href = best.url;
+                    } else {
+                        alert(pageLang === 'en'
+                            ? 'No results found for: ' + query
+                            : 'No se encontraron resultados para: ' + query);
+                    }
+                });
             }
         });
-        
-        // Add placeholder text animation
-        searchBox.setAttribute('placeholder', 'Buscar autores, textos, o temas... (presione Enter)');
     }
 });

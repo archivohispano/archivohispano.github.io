@@ -45,3 +45,4 @@ exclude:
   - README.md
   - LICENSE
   - CONTRIBUTING.md
+  - CLAUDE.md

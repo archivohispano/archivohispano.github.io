@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div id="text-page-data"
+     data-lang="{{ page.lang }}"
+     {% if page.lang == 'es' and page.english_version %}data-alt-lang-url="{{ page.english_version }}"{% endif %}
+     {% if page.lang == 'en' and page.spanish_version %}data-alt-lang-url="{{ page.spanish_version }}"{% endif %}
+     style="display:none;"></div>
+
 <header>
     <div class="container">
         <div class="header-content">
