@@ -100,7 +100,7 @@ Private property can only be conceived as a means of distribution of collective 
 
 If we believe only in brute force, we could not rise up against brute force. If Albizu Campos believed in brute force, he would not raise a flag against the despotism of the United States.
 
-There are many brutes on the planet. There are the soap operas, there are the quadrupeds, there are the birds of prey, they are all brutes. There are those who think they are men, they are beasts. No, there is something greater in man and it is the strength of his spirit. And it is the reflection of the divinity in him, with the understanding of the universe in which God has placed him. We want to raise a nationality of our own.
+There are many brutes on the planet. There are the large serpents, there are the quadrupeds, there are the birds of prey, they are all brutes. There are those who think they are men, they are beasts. No, there is something greater in man and it is the strength of his spirit. And it is the reflection of the divinity in him, with the understanding of the universe in which God has placed him. We want to raise a nationality of our own.
 
 We have to inspire it on those classical principles. When the spirit is liberated, the body is liberated. So we will be then, we have to be first and great in the spirit so that the body will be noble, beautiful and holy. But not the other way around. There can be neither beauty, nor holiness, nor greatness in a body of a brute.
 
@@ -110,7 +110,7 @@ And they took up the cross, what for? What did they take up the cross for? To ha
 
 The peoples of Europe are going through the greatest crisis in their history. Generation after generation of Europe set about educating their children in despotism over unarmed peoples, over defenseless peoples. They set about educating their wise men, their most illustrious scholars, their jurists, their artists and even their clergymen and even their clergy. So that they can impose, what? the Gospel? No! piracy, robbery, murder.
 
-To make of the cross a sword or to make of the cross a rapier to strike at the heart of the defenseless women and children of Africa, America and Asia. And now today they are reaping the fruit of their four centuries of history. Today the Europeans have lost their brains. All their cynicism, all their cynicism, all the sharpness of all their thinkers is falling on Europe today like a shattering thunderbolt. And we are at the crossroads of the liquidation of European barbarism.
+To make of the cross a sword or to make of the cross a rapier to strike at the heart of the defenseless women and children of Africa, America and Asia. And now today they are reaping the fruit of their four centuries of history. Today the Europeans have lost their brains. All their cynicism, all their cunning, all the sharpness of all their thinkers is falling on Europe today like a shattering thunderbolt. And we are at the crossroads of the liquidation of European barbarism.
 
 The descendants of Europe who have imitated its vices, the spirit of piracy, the spirit of deceit, the spirit of selfishness, of those who have fallen into the madness of the worship of gold, in Our America were the Yankees. I do not mean to say that we are immune to this disease. We have to be very aware of our own limitations.
 
@@ -142,7 +142,7 @@ They wiped out the indigenous blood. I am always asked by the wise in good faith
 
 Why is it that south of the Rio Grande the same phenomenon occurs? Why is it that Mexico, out of a population of 22 million inhabitants, at least 20 million are descendants of our elders, the Indians who populated the Americas? Ah, it is because the whole spirit of Europe arrived in the United States in the fullness of its barbarism.
 
-The contemporary age, my friends, is not the age of the atomic bomb, no. The contemporary age is the age of the atomic bomb. The contemporary age is the age of the scientific barbarian. We conceived barbarism as a state of ignorance of the human mind. It was always a mistake.
+The contemporary age, my friends, is not the age of the atomic bomb, no. The contemporary age is the age of the scientific barbarian. We conceived barbarism as a state of ignorance of the human mind. It was always a mistake.
 
 Barbarism is not a state of ignorance of mind. Barbarism is a state of vileness of the spirit of man. And the Europeans organized their vileness, their piracy, their robbery, their collective murder of all mankind.
 
@@ -270,7 +270,7 @@ And if I am empatriated and vilified, I would never be at the same time, if I we
 
 Here, my friends, is a struggle. A struggle.
 
-We Yankees and Puerto Ricans are not alone on the chessboard. On the chessboard is the entire hemisphere of America.
+On the chessboard, it is not just the Yankees and Puerto Ricans. On the chessboard is the entire hemisphere of America.
 
 On the board, the colonial powers, led by the United States in favor of slavery in the world and the non-colonial powers that want the emancipation of man and nationalities.
 
@@ -288,7 +288,7 @@ We have to govern this country here and our government has to impose itself the 
 
 We do not have to go to the polls for the enemy to have the insolence to count us one by one and tell us: So many slaves, so many children. No, do not go through that humiliation.
 
-When the enmy raises his finger to point at us, let us point with a bullet at his head for his insolence.
+When the enemy raises his finger to point at us, let us point with a bullet at his head for his insolence.
 
 Here, the electoral struggle was invented by the enemy. Why? Because it suited him to enslave us.
 

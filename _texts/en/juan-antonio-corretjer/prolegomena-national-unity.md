@@ -17,8 +17,6 @@ collections:
   - political-thought
 ---
 
-# Puerto Rican Independence and National Unity
-
 The intention is visible throughout the information. Patriotic impatience sometimes pretends to see what exists in many things. And the patriotic impatience of some has wanted to see in the alleged designation of another Committee for the study of Puerto Rico's political status by Mr. Truman, the imminence of our final liberation from colonialism.
 
 With 22 years of militancy for national independence; with the long apprenticeship of many sleepless nights studying national liberation movements and imperialism; with humble modesty I warn my compatriots: no one should sow and no one should place hopes in tyranny. And of tyrannical nature is all foreign intervention.
@@ -65,7 +63,19 @@ The different disguises of the autonomists do not include only the autonomists o
 
 The "independentist" with "economic guarantees" is also, despite himself, another "autonomist." Only that his position is not only false, but ridiculous. The "independentist" with "economic guarantees" is a member of the Popular Democratic Party. He is a just, reasonable man, concerned about the things of his country. There is not, there cannot be, in him —the council of founders prohibits it!— any bombast. He has to be a common man. He is called, —generally—Posthumous. He is "son of his father and his mother; that is... "who has managed "to have from the cradle what everyone has: father and mother."
 
-[The text continues with a literary passage about the character Posthumous, describing his idealistic nature and tragic fate]
+"All these rather precise and curious details we have from a very good source, as well as what we shall later relate about this character, who, given his name, seemed destined to live after death."
+
+"But let us not get ahead of ourselves; and if death took Posthumous, let us bring him back to this world, if only because it suits our narrative."
+
+"Resuming our tale, we shall say that he died for the first time. Let us see how this accident could be verified in such a way that something remained for another occasion."
+
+"Posthumous was young, and he would surely have ceased to be so had he lived more years; but let it be understood that we speak only of the aging of the body; for as regards the spirit, that of our hero was destined to remain forever a child, as we shall see further on. He was one of those beings who dream while awake, and who seem asleep in the very easy matter of being led astray in the toils and malice of this world. His plans were not for this stage; one could say that, destined for another globe, he had come to this one by mistake. It frequently happened to him that, wanting to make dramas, he only made interludes, in which, at best, he revealed his peculiar character; a true absurdity for this worldly stage, to the laughter of the audience, who proclaimed his insufficiency in matters of playing any character other than his own... Had he become a deputy, he would have been left without his share; had he set up as a public writer, he would have had the poor judgment of always writing the truth; had he become a minister, his desires for good would have turned the armchair — which for others lasts flowering months — into thorns for a single day. Posthumous dreamed of the Golden Age, as if this were not a fruit foreign to the winter season in which he lived."
+
+"He had, then, his eyes on the infinite, on the void."
+
+"This, as regards his spirit; as for his physique, Posthumous was quite handsome and charming: dressing with natural elegance, though somewhat carelessly, as befitted a dreamer of imaginary worlds. More than once he had to be pulled from ditches or wells, where he had fallen from looking at the sky: a true observer of the ethereal region."
+
+Such was Posthumous. And I have yielded directly to Tapia his complete description. But two terrible things happened to Posthumous: first, he died; second, he was resurrected in the body of his enemy.
 
 Thus was the "independentist" of the Popular Democratic Party, and from the utopian dream in which he lived, dreaming of "revolutionizing" the colonial economy, "decolonizing" it, and on that basis, setting course toward independence, he finds that one day, a terrible yellow fever of "it's not in issue" throws him into the common grave of colonialism, and, as if that were not enough, he resurrects electorally in the body of his enemy: the bureaucrat for whom the homeland is an office, the flag a check, and the anthem the anesthetizing tinkle of thirty pieces of silver.
 
