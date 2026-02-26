@@ -4,3 +4,5 @@ primary source research.md
 _site/
 .jekyll-cache/
 .sass-cache/
+scripts/pipeline_config.py
+.pipeline_cache/
