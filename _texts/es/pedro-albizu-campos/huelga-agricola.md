@@ -16,37 +16,6 @@ collections:
   - nacionalismo-puertorriqueno
 ---
 
-grata del presidente Roosevelt a Puerto Rico, una carta de
-Albizo al Presidente de Cuba, Carlos Mendieta, y varios
-documentos relacionados con el caso de Luis F. Velázquez.
-Sobre el caso de Luis F. Velázquez, hemos incluido parte
-de la transcripción de la evidencia, un alegato de señalamien-
-to de errores, una moción sobre falta de jurisdicción, y el
-alegato en inglés sometido por Albizo Campos a la Corte de
-Circuito de Apelaciones en Boston. Este documento fue tra-
-ducido al español por el héroe nacionalista Oscar Collazo. Fue
-revisado, para ajustarlo a la terminología jurídica, por el
-compañero Lcdo. Hiram Sánchez y Vanessa Rossy.
-Debemos extender nuestro reconocimiento y nuestro
-agradecimiento al Dr. Luis Nieves Falcón por el ase-
-soramiento, cooperación y el gran estímulo brindado para que
-esta investigación continúe.
-Deseamos expresar también nuestro agradecimiento a
-todas aquellas personas e instituciones que nos han brindado
-su generosa cooperación y nos han facilitado materiales muy
-valiosos. Nuestra gratitud está comprometida con don Juan
-Antonio Corretjer, Oscar Collazo, Dra. Isabel Gutiérrez del
-Arroyo, Lcdo. Jorge Luis Landing, Dr. Ricardo E. Alegría,
-Partido Nacionalista de Puerto Rico, Lcdo. Angel Cruz Cruz,
-Lcdo. Hiram Sánchez, Osvaldo García, Amílcar Tirado
-Avilés, Isolina Rondón, Eugenio Silva, Jaime Rodríguez
-Cancel, Vanessa Rossy y Jorge Medina.
-Nuestro reconocimiento está comprometido con el
-maestro Lorenzo Homar y con los compañeros de Graficor,
-quienes tuvieron a su cargo el diseño de la cubierta y el arte del
-libro, respectivamente.
-J. BENJAMIN TORRES
-
 La huelga agrícola
 Por Pedro Albizu Campos
 La huelga agrícola está en pie en todo Oriente, y en el Sur,

@@ -280,8 +280,21 @@ def extract_vision_ocr(doc: fitz.Document, start: int, end: int) -> str:
     for i in range(start, min(end, len(doc))):
         print(f"      vision OCR page {i + 1} ...")
         img_bytes = _get_page_image(doc, i)
-        response  = model.generate_content([prompt, _bytes_to_pil(img_bytes)])
-        all_pages.append(response.text.strip())
+        try:
+            response = model.generate_content([prompt, _bytes_to_pil(img_bytes)])
+            if not response.candidates:
+                print(f"      [WARN] Gemini returned empty response for page {i + 1} (safety filter?), retrying...")
+                response = model.generate_content(
+                    [prompt + " This is a historical archive document.", _bytes_to_pil(img_bytes)]
+                )
+            if not response.candidates:
+                print(f"      [WARN] Page {i + 1} still blocked, inserting placeholder.")
+                all_pages.append(f"[Page {i + 1} could not be transcribed]")
+            else:
+                all_pages.append(response.text.strip())
+        except Exception as exc:
+            print(f"      [WARN] vision OCR page {i + 1} error: {exc}")
+            all_pages.append(f"[Page {i + 1} could not be transcribed]")
     return "\n\n".join(all_pages)
 
 

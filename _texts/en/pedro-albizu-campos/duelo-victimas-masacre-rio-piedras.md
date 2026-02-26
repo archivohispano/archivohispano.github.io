@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1935-01-01
 source: Obras Escogidas 1923-1936 (Selected Works)
-source_detail: "EI Møndo, 26 de octubre de 1935, p. 7."
+source_detail: "El Mundo, October 26, 1935, p. 7."
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/duelo-victimas-masacre-rio-piedras
 spanish_version: /es/textos/pedro-albizu-campos/duelo-victimas-masacre-rio-piedras
@@ -16,10 +16,8 @@ collections:
   - independencia-puerto-rico
 ---
 
-r20
-SELECTED WORKS
-Mourning for the victims of the
-Río Piedras Massacre
+Mourning for the Victims of the Río Piedras Massacre
+
 Upon a promontory of damp earth, they bid farewell in mourning,
 delivering eloquent speeches Mr. Ermelindo Santiago, who spoke on behalf of the Patriotic Lodge, to which
 Mr. Ramón S. Pagán belonged; Carrera, as president of the National Federation
@@ -75,13 +73,6 @@ speaker.
 "We swear," the public said again in the same attitude. And
 he finished with other brief farewell phrases to the memory of the
 newly buried.
-to the student body. The assembly was convened for October 24, 1935. The police
-
-r22
-SELECTED WORKS
-The Massacre of
-Río Piedras: Declaration
-of the National Board
 In the edition of La Democracia dated October 28,
 1935, and which circulated the night before, Colonel Riggs, chief
 of the police in the service of the Yankee interventionist government, threatens the Puerto Rican nation

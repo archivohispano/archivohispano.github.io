@@ -16,37 +16,6 @@ collections:
   - nacionalismo-puertorriqueno
 ---
 
-grata from President Roosevelt to Puerto Rico, a letter from
-Albizo to the President of Cuba, Carlos Mendieta, and various
-documents related to the case of Luis F. Velázquez.
-Regarding the case of Luis F. Velázquez, we have included part
-of the transcript of the evidence, a claim of pointing
-out errors, a motion on lack of jurisdiction, and the
-claim in English submitted by Albizo Campos to the Court of
-Circuit of Appeals in Boston. This document was
-translated into Spanish by the nationalist hero Oscar Collazo. It was
-revised, to adjust it to legal terminology, by the
-comrade Lcdo. Hiram Sánchez and Vanessa Rossy.
-We must extend our recognition and our
-gratitude to Dr. Luis Nieves Falcón for the
-advice, cooperation, and great encouragement provided for
-this investigation to continue.
-We also wish to express our gratitude to
-all those people and institutions that have provided us with
-their generous cooperation and have provided us with very
-valuable materials. Our gratitude is committed to don Juan
-Antonio Corretjer, Oscar Collazo, Dra. Isabel Gutiérrez del
-Arroyo, Lcdo. Jorge Luis Landing, Dr. Ricardo E. Alegría,
-Partido Nacionalista de Puerto Rico, Lcdo. Angel Cruz Cruz,
-Lcdo. Hiram Sánchez, Osvaldo García, Amílcar Tirado
-Avilés, Isolina Rondón, Eugenio Silva, Jaime Rodríguez
-Cancel, Vanessa Rossy and Jorge Medina.
-Our recognition is committed to the
-maestro Lorenzo Homar and to the Graficor comrades,
-who were in charge of the design of the cover and the art of the
-book, respectively.
-J. BENJAMIN TORRES
-
 The Agricultural Strike
 By Pedro Albizu Campos
 The agricultural strike is ongoing throughout the East, and in the South,

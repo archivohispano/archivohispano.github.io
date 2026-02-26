@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1935-01-01
 source: Obras Escogidas 1923-1936
-source_detail: "EI Møndo, 26 de octubre de 1935, p. 7."
+source_detail: "El Mundo, 26 de octubre de 1935, p. 7."
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/duelo-victimas-masacre-rio-piedras
 english_version: /en/texts/pedro-albizu-campos/duelo-victimas-masacre-rio-piedras
@@ -16,10 +16,8 @@ collections:
   - independencia-puerto-rico
 ---
 
-r20
-OBR,{S ESCOGIDAS
-Duelo de lasvíctimas dela
-Masacre de Río Piedras
+Duelo de las víctimas de la Masacre de Río Piedras
+
 Sobre un promontorio de tierra húmeda, despidieron el duelo,
 pronunciando elocuentes discursos los señores Ermelindo Santia-
 go, quien habló en nombre de la Logia patria,a la cual pertenecía el
@@ -84,14 +82,6 @@ orador.
 'Juramos", volvió a decir el público en la misma actitud. Y
 terminó con otras breves frases de despedida a la memoria de los
 recién sepultados.
-al estudiantado.Laasambleafueconvocada parael 24deoctubreòel9lJ.Lapolicía
-
-r22
-OBRAS ESCOGID,{S
-La Masacre de
-Río Piedrzrs : Declanción
-de la Junta Nacional
-En la edición de Iz Democracia de fecha 28 de octubre de
 1935,y que circuló la noche antes, amenaza el Coronel Riggs, jefe
 de la policía al servicio del gobierno inrervenror yanqui a la nación
 puertorriqueña con una declaración de guerra. Dice el Coronel que
