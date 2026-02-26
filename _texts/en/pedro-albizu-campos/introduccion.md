@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1923-01-01
 source: Obras Escogidas 1923-1936 (Selected Works)
-source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936"
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/introduccion
 spanish_version: /es/textos/pedro-albizu-campos/introduccion
