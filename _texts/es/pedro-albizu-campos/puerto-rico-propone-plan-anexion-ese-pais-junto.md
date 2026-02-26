@@ -16,51 +16,6 @@ collections:
   - relaciones-internacionales
 ---
 
-San Juan.
-E. Los candidatos municipales y los candidatos a la Cámara serán
-seleccionados en primarias de candidaturas sometidas al electorado
-por la Junta Local o por cierto número de electores.
-El número de candidaturas que deberá someter la Junta Local al
-electorado será tres.
-F. En primarias en cada distrito de las candidaturas que someta al
-electorado la Junta de Distrito, o cierto número de electores, se
-acogerán los senadores por dicho distrito. La Junta de Distrito
-someterá tres candidaturas al electorado.
-G. En primarias generales en todo el país, se escogerán los candidatos
-para senadores y representantes por acumulación y los candidatos
-para cargos electivos insulares, de tres candidaturas que someterán al
-electorado la Junta Central, disponiéndose que el Distrito Senatorial
-de San Juan no podrá tener más de un senador o representante por
-acumulación.
-H. El cambio de residencia invalida el derecho a representar a la ciudad
-que lo concedió, ya sea ésta una Junta Local, una Junta de Distrito,
-Municipio, Distrito representativo o Distrito Senatorial.
-I. La Junta Central con un representante designado ad hoc por cada
-Junta de Distrito, constituirán la Junta de que recomendarán al
-ejecutivo los candidatos que habrá de seleccionar para cargos
-administrativos insulares.
-Cuarto: distribución del poder.
-
-Esta se hará a base de la representación proporcional de acuerdo
-con el resultado de las elecciones de 1920.
-El saneamiento general tiene que empezar por la descentralización
-de la representación. El progreso del país será uniforme y rápido.
-Este es un entendido patriótico y requiere nuevas orientaciones que
-emanen de la buena fe y del sacrificio de prejuicios y de intereses
-creados. Bien podemos todos prescindir de los nombres actuales, ya que no
-hay motivos de gran orgullo para nadie cuando la lucha partidarista de
-los últimos 25 años nos ha reducido a parias en nuestra Patria.
-Usted y el señor Tous Soto han roto la inercia colectiva. Se inicia el
-movimiento, y aunque no constituimos un pueblo grande en territorio
-o población, podemos ser grandes en riqueza material, en arte y
-ciencias, y ser de la vanguardia de la civilización.
-Tenga la bondad de aceptar este humilde esfuerzo en prueba de la
-apreciación que motiva la hermosa idea de reconstruir a nuestra Patria.
-Con toda mi consideración.
-
-Su amigo y S.S.,
-P. ALBIZU CAMPOS.
-
 EN PUERTO RICO SE PROPONE UN PLAN PARA LA ANEXION
 DE ESE PAIS' JUNTO CON CUBA Y HAITI A ESTADOS
 UNIDOS<sup>6</sup>
@@ -154,9 +109,6 @@ pueblo que le concedió su representación. Conseguiremos con su
 elección poner un monigote más a disposición del imperialismo yanqui
 en Puerto Rico, que así podrá escapar la responsabilidad de su mal
 gobierno y los hijos de nuestro país cargarán con ella. ¡Sabia es la
-
-29
-
 política yanqui que sabe buscar buenos instrumentos para su ejecución!
 La debatida frase "soberanía dentro de la soberanía" nos dicen
 unos que quiere decir el "estado" federal y otros de que quiere decir
@@ -211,8 +163,6 @@ Rico a reunión alguna después de este acuerdo.
 una fórmula hábil para mantener la cohesión de las huestes para no
 verse el directorio reducido a un pretencioso esqueleto. La verdad es
 que se ha disuelto la Unión de Puerto Rico y el llamado Partido
-30
-
 Republicano y se ha constituido un nuevo partido dominado por la
 plutocracia.
 Beneficio de esta combinación no podría esperar pueblo alguno y
@@ -235,8 +185,6 @@ imposiciones de los suyos o de los extraños.
 
 PEDRO ALBIZU CAMPOS
 Ponce, Puerto Rico, mayo 12, 1924
-
-31
 
 NUESTRAS ENTREVISTAS
 
@@ -281,9 +229,6 @@ atención?
 -Ninguno.
 -Nos gustaría decir a los lectores de "Poliedro" tu proceso político
 personal hasta su culminación como Vice-presidente del partido
-
-34
-
 Nacionalista.
 Siempre fui defensor de la independencia absoluta de la patria.
 Calificaba a los "republicanos" anexionistas renegados y a los
@@ -383,9 +328,6 @@ figurar en el parnaso mundial
 frente a Estados Unidos.
 -Nuestra patria será una nación libre y soberana contra la voluntad
 de Estados Unidos. Su independencia sin limitaciones así como la de las
-
-36
-
 naciones del Caribe y de Centro América bajo la influencia perniciosa
 de Estados Unidos actualmente, se impondrá como una necesidad
 universal que sostenga el equilibrio entre las naciones, y un estado de
@@ -403,8 +345,6 @@ Estas son a grandes trazos algunas de las ideas vertidas por Albizu
 Campos en el curso de nuestra larga conversación. Desnudas y francas,
 ellas encierran entre líneas graves y profundos comentarios. Nosotros
 meditamos...
-
-37
 
 "MACFADDEN ES EL UNICO CONGRESISTA QUE HA
 PENETRADO EN LA CONCIENCIA DE ESTE PUEBLO. SOMOS
@@ -451,8 +391,6 @@ mundo, ha creado profunda hostilidad".
 Mac Fadden respecto a que "el gobierno norteamericano debe adoptar
 medidas para evitar que el sentimiento pro-americano no se debilite en
 Puerto Rico"?
-
-38
 
 "Puerto Rico nunca ha sido yanqui ni lo será jamás. Toda medida
 que adopte el gobierno de Estados Unidos para desnaturalizar a nuestro

@@ -58,4 +58,14 @@ Ese dinero está en poder de los ciudadanos norteamericanos en el continente.
 Cálculos conservadores sobre el valor financiero del monopolio comercial que nos impuso Estados Unidos por la fuerza y en virtud del cual estamos obligados a vender nuestras mercaderías a los norteamericanos al precio que a ellos les convenga, y además tenemos que pagar por la mercancía norteamericana el precio que nos quieran imponer los norteamericanos, arrojan una cifra no menos de quinientos millones de dólares oro.
 Por supuesto el resultado de esa explotación inmisericorde y abusos perpetrados sobre nuestra nacionalidad, queda patente en la pobreza universal, en las enfermedades y elevada mortalidad de nuestra población, la más alta en las Américas.
 El setenta y seis por ciento de la riqueza nacional está en manos de unas pocas corporaciones norteamericanas, para cuyo beneficio exclusivo se mantiene el presente gobierno militar.
-Un asalto estúpido se ha dirigido contra nuestro orden social cristiano en un esfuerzo brutal para disolver la estructura de nuestra familia y destruir la moralidad de una raza hidalga, imponiendo a través de agencias gubernamentales la difusión de las prácticas de la prostitución, bajo el estandarte engañoso del control de la natalidad; el esfuerzo ridículo para destruir nuestra civilización hispánica con un sistema de ins-
+Un asalto estúpido se ha dirigido contra nuestro orden social cristiano en un esfuerzo brutal para disolver la estructura de nuestra familia y destruir la moralidad de una raza hidalga, imponiendo a través de agencias gubernamentales la difusión de las prácticas de la prostitución, bajo el estandarte engañoso del control de la natalidad; el esfuerzo ridículo para destruir nuestra civilización hispánica con un sistema de instrucción pública usado en Estados Unidos para esclavizar a las masas; la arrogancia tonta de pretender guiar en el orden espiritual a una nación cuya alma se ha forjado en el puro cristianismo; esas son nuestras quejas más serias.
+
+Estados Unidos de América se encuentra frente a frente en Puerto Rico con el espíritu de Lexington, de Zaragoza, de Ayacucho.
+
+La presente política imperial por la cual se pretende disolver al nacionalismo por el terror y el asesinato es una provocación y una tontería imperialista para satisfacer a unas pocas corporaciones norteamericanas.
+
+El pueblo de Estados Unidos, si no se ha vuelto totalmente insensible a los principios que le permitieron ser una nación libre, debe tener el sentido común, debe guiarse exclusivamente por su interés nacional.
+
+Ese interés nacional queda garantizado al respetar la independencia de Puerto Rico.
+
+Esas son las aspiraciones del nacionalismo de Puerto Rico.

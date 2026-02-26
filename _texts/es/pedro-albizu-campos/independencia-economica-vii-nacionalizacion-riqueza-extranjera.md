@@ -16,8 +16,6 @@ collections:
   - discursos
 ---
 
-<!-- INCOMPLETE: opening paragraphs not captured in OCR extraction -->
-
 ...cubana: el Club Atenas de la Habana, compuesto casi en su totalidad de hombres cultísimos que son mulatos, negros o mestizos, y del brillante Grupo Minorista, casi integrado en su totalidad por elementos blancos.
 
 Planteado este grave problema por nosotros francamente en la ciudad de Cienfuegos, en la noche del siete de diciembre del 1927, al clausurar la velada en homenaje a los mártires de la independencia cubana, aniversario de la muerte de Maceo, y a invitación de la sociedad cultural Minerva y de las autoridades de aquel importantísimo municipio, pudimos servir, por el amor que a la causa de la Independencia Patria que en aquel momento representábamos, de núcleo de la organización que habría de abordar con valentía, sabiduría y patriotismo, este grave problema que por sí sólo era suficiente para dar parálisis a toda actividad nacional cubana.
@@ -176,6 +174,58 @@ Tal es la historia de todos los imperios pretéritos y contemporáneos. Su expan
 Tal es la experiencia de Puerto Rico bajo el imperio de Estados Unidos. Este coloniaje que ha arrasado con todos nuestros valores.
 
 La ciudadanía imperial se impone a los naturales de una nación sometida, solamente con el propósito de disolver a la nacionalidad víctima de la fuerza y para consolidar el régimen militar a que se le somete.
-Después de aprobada el Acta Jones por el Congreso de Estados Unidos que consign...
+Después de aprobada el Acta Jones por el Congreso de Estados Unidos que consignó los poderes de la legislatura territorial sobre la gestión de la riqueza y su desarrollo cultural y político, tuvo que favorecer la posesión de bienes en manos de residentes de buena fe, y la legislatura territorial acusa una política uniforme de hacer onerosa la posesión de bienes en poder de los no domiciliados. Esta norma se hacía forzosa para defenderse contra sus propios conciudadanos norteamericanos residentes fuera del territorio, aunque pretendieran adquirir bienes, ya como personas naturales o por medio de organizaciones corporativas. No pudiendo prohibir de plano esta adquisición de bienes por parte de los no residentes, la iniciativa se limitaba a aligerar la carga contributiva para los residentes. El sistema desarrollado surtía a la larga los efectos que se deseaban.
 
-<!-- INCOMPLETE: text cuts off here; continuation not located in OCR extraction -->
+Esa es la lucha de los norteamericanos contra sus propios hermanos continentales.
+
+El Congreso norteamericano tenía, en cada territorio continental, en virtud de la constitución de su país, los derechos legislativos que aquí pretende ejercer por la fuerza. Como la iniciativa territorial implicaba un fomento nacional, y como los poseedores residentes eran sus propios conciudadanos, el Congreso estimuló esa iniciativa mientras requería gran heroísmo poblar los territorios. Creada la riqueza territorial, surgió en el Congreso imperial la fuerza de los poderes económicos centralistas, que desde Wall Street y los grandes centros financieros del Este, pretendían explotar a sus propios conciudadanos que vivían bajo un régimen territorial irresponsable a merced de los poderes centrales.
+
+Se estableció la lucha entre los pulpos imperiales que querían dominar el congreso y los territorios sujetos a la voluntad de ese mismo congreso. La población territorial se dió cuenta de que para salir parcialmente de esos poderes absorbentes, tenía que recurrir a convertirse en provincia nacional, "estado".
+El proceso requirió la violencia como necesidad de defensa. Nadie se desprende de un monopolio voluntariamente.
+
+Y para ilustración, vamos a usar el caso del territorio de Arkansas. La legislatura territorial pidió al congreso nacional la aprobación de un "Enabling Act", o sea una ley que le permitiese celebrar la convención constituyente para trasformar el territorio en provincia, "estado". La solicitud fué denegada por el congreso.
+
+Los poderes territoriales por su propia voluntad, celebraron la convención constituyente para ese propósito y eligieron sus representantes y senadores al congreso nacional. Apelaron a la violencia contra toda autoridad federal dentro del territorio que no quisiera reconocer la voluntad territorial.
+
+Ante la crisis política planteada, el congreso, entonces, tuvo que facilitar los trámites para el reconocimiento de Arkansas como provincia "estado".
+
+Esta ha sido la lucha agria de hermano contra hermano, de la misma nacionalidad. Los que creen que van a conseguir la conversión de Puerto Rico en provincia norteamericana, "estado", por medio de la adulación y del sometimiento, están muy equivocados. Para llegar a esa finalidad, aunque suicida, los defensores de la estadidad tienen que dedicarse desde ahora mismo en la forma más agria y violenta a combatir todos los intereses norteamericanos establecidos en Puerto Rico. Esos intereses no han de renunciar a su condición privilegiada actual y no permitirán ponerla en peligro alguno por ningún cambio político. Toda cooperación con ellos refuerza su presente monopolio y estabiliza el régimen irresponsable que impera.
+
+Toda supresión de su influencia destruye su interés en el país y facilita, por supuesto, los cambios políticos necesarios.
+Cuando el territorio continental pasó a provincia "estado", encontró que la voluntad territorial había sido burlada por nuevas combinaciones financieras de los intereses que dominan a aquel país. Oportunamente analizaremos este aspecto del imperialismo interno yanqui.
+
+Aunque para los fines de nuestra explotación, ellos son carne de nuestra carne y hueso de nuestro hueso, la realidad es otra, somos enemigos enfrentados a ellos con todas las desventajas que implica la disparidad de fuerzas en la actualidad.
+
+Como aquí no había nada que fomentar, y ellos, los invasores, encontraron una nación hecha, mucho más adelantada que la gran mayoría de sus provincias "estados" y comparable favorablemente con cualquiera de sus "estados" más avanzados no se estimuló la iniciativa legislativa colonial para fomentar la riqueza nativa, sino que se inició violentamente el proceso de desposesión nativa.
+
+Admitido que no existe poder legislativo dentro de ese régimen colonial, se nos ha preguntado si el cuerpo que legisla para Puerto Rico, o sea el Congreso de Estados Unidos, no podría ser movido a decretar las leyes necesarias para que los puertorriqueños retrotraigan a su poder los bienes que han pasado a los invasores. Se ha indicado que en ese congreso tenemos una representación establecida por la voluntad del mismo, esto es, un comisionado residente, que pudiera influir en sus deliberaciones.
+
+En primer lugar, es pueril asumir, que ese congreso norteamericano, que desde la fecha de la invasión hasta ahora ha impuesto su voluntad legislativa en nuestro país, organizando el sistema de desplazamiento del nativo por el invasor, y afianzando el régimen de explotación imperante, tenga interés alguno en destruir su propia obra con la cual se ha enriquecido, la nación norteamericana.
+
+El congreso de Estados Unidos tiene una intención definitiva y preconcebida: mantener el régimen actual para beneficio exclusivo de los invasores.
+
+Cuando nuestro país está adormecido, el congreso yanqui no se preocupa. El régimen explotador funciona entonces maravillosamente. Pingües beneficios deriva la industria y el comercio norteamericanos de este mercado nuestro que ocupa el sexto lugar en las relaciones mercantiles internacionales de Estados Unidos, ascendente a la gran suma de doscientos millones de dólares anuales. Monopolio mercantil que retiene sin preocupación alguna, porque no es posible ninguna competencia internacional debido a la muralla arancelaria.
+
+Muy distinta es la situación del comercio y la industria norteamericana en cualquier otro mercado del mundo. Allí tropieza con agria competencia internacional. El nativo, como vendedor o como comprador, tiene mercados para escoger y hay que ofrecerle condiciones ventajosas para asegurar una operación comercial con él. Para comprender esto, es preciso visitar a cualquier país suramericano donde la competencia internacional es agria y sistemática.
+
+El Congreso de Estados Unidos no va a alterar un estado de cosas que el mismo ha creado para beneficio exclusivo del poder imperial. La presencia del comisionado residente de Puerto Rico en la Cámara baja de ese Congreso, en nada ha influído para alterar estos hechos. En primer lugar, el comisionado no tiene ningún poder representativo en el congreso de Estados Unidos porque no puede votar sobre ninguna cuestión ante dicho organismo. No puede votar sobre ninguna cuestión que afecte a Puerto Rico mismo. No existe representación legislativa cuando no se puede intervenir en la legislación con el voto.
+
+Pero se dice que tiene voz. Es bueno que nuestro país sepa que para que su comisionado pueda dirigirse a la cámara de representantes norteamericana, necesita adquirir previamente el consentimiento unánime de todos los representantes. Y este consentimiento se le otorga cuando convenga exclusivamente a los intereses de Estados Unidos, como es natural. Para eso se ha establecido la regla. Y el consentimiento se otorga por un período de tiempo que rara vez alcanza a QUINCE MINUTOS.
+
+Por esas razones, ningún comisionado ha estado en condiciones de poder abordar en su fondo el problema de su Patria ante aquel cuerpo representativo del imperio norteamericano.
+
+Se le ha permitido hablar diez o doce minutos sobre cosas de menor cuantía, como las que se han presentado recientemente ante el Congreso, tales como la extensión de la ley de instrucción vocacional, que sirven sólo para desorientar a nuestro país.
+
+Por supuesto, se le permite hablar para impulsar cualquier legislación que convenga a los intereses de Estados Unidos. Actualmente se considera en petit comité un proyecto de ley para que Puerto Rico tenga dos comisionados residentes. Ninguno de los dos tendrá voto y estarán en las mismas condiciones, en cuanto al uso de la palabra, como si fuera un solo Comisionado. Se trata de aumentar el número de sordomudos que representen a Puerto Rico.
+
+Este escarnio de nuestro derecho no ha sido considerado en su debida forma. Se trata de burlar una vez más la opinión pública del país como viene siendo burlada por la representación ficticia de un solo comisionado de acuerdo con la ley vigente.
+
+La medida se ha presentado como un acto liberal. Todo es una farsa. Habría liberalidad si al presente comisionado se le diese voz y voto en el congreso de Estados Unidos en igualdad de condiciones con sus supuestos colegas representativos. Habría liberalidad si se propusiera la elección de dos comisionados con voz y voto, con los mismos privilegios y derechos de sus compañeros.
+Tiene cualquier congresista yanqui el poder imperial de votar y legislar sobre cualquier cuestión que afecte a Puerto Rico contra la voluntad de la nación portorriqueña. Este atropello de nuestro derecho colectivo no ha sido atacado con suficiente acritud todavía.
+¿Pero cómo va el congreso de Estados Unidos a permitir el sacrilegio, de acuerdo con su propia opinión, de que un solo portorriqueño pueda tener voto ni voz en ningún asunto que afecte a Estados Unidos aunque éste ataque directamente a su propio país, Puerto Rico?
+Tal es la ley de embudo de todo imperio. Nuestra nación está indignada con esta nueva burla de sus derechos más sagrados.
+Ese mismo proyecto, se ha dicho, que los dos comisionados serán nombrados por el gobernador de la colonia. Es preferible que así sea. Nuestro pueblo no debe seguir pasando por la verguenza de ostentar una representación ficticia y que le ha valido solamente para desorientarle.
+El gobierno invasor necesita dominar de un modo más directo la selección del comisionado. Necesita trasladar al mismo capitolio a un esbirro más, bien escogido y seleccionado, que distraiga a los representantes norteamericanos en sus horas de ocio, con loas a su régimen en Puerto Rico.
+Vea el país que esta cadena de restricciones y de centralización del poder en manos del gobernador colonial obedece a un plan definitivo. Nunca habrá de tener Puerto Rico bajo el imperio norteamericano un gobierno responsable.
+Quiere el imperio a "representativos" nuestros que lo secunden en su obra demoledora; a "representativos" nativos que contribuyan a la desmoralización de nuestra juventud sometida a un régimen de caridad pública para su alimentación cuando se condena a sus padres a morir de hambre por falta de oportunidad para ganarse la vida, dentro de un régimen que fomenta el desempleo para abaratar la mano de obra.
+Todo esto es cínico, porque, mientras por esas medidas desmoralizadoras se pretende provocar la gratitud de nuestro generoso pueblo sigue intocado el régimen latifundiario explotador, y el acaparamiento de todas nuestras riquezas que constituye las causas fundamentales de esta tragedia.

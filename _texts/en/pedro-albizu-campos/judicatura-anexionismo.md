@@ -466,4 +466,19 @@ remedy them with the superior interest of making itself worthy of occupying a po
 of vanguard in contemporary civilization.
 These interests know well the impossibility of the conversion of
 our homeland into North American province, "state". They oppose the
-propaganda that leads to that anticipating the possible evil of losing the
+propaganda that leads to that anticipating the possible evil of losing the monopoly of the prevailing political and material power, because every discussion of the political status necessarily leads to laying bare the existing privileges and outrages, and that is to take sleep from those who enrich themselves on the basis of the systematic exploitation of our natural and human wealth. However arrogant a monopoly may feel, even if backed by the North American force that currently guarantees the exploitation of our homeland, it loses all tranquility upon receiving the blow of analytical criticism, especially when the system that protects it has almost placed it in possession of the totality of Puerto Rican wealth.
+
+And that analysis is inevitable when discussing the political status. It is significant that the directors of the pro-North American province, "state" movement, have launched themselves to discredit their own program, propagating the false affirmation that the "state" province could not be sustained economically, appealing to the sordidness of those who have something to lose.
+
+Of course, Nationalism repudiates this political solution that it considers suicidal, but sheltered always in the truth, it cannot fail to reject an argument without any basis whatsoever, and that serves only to increase the disorientation that would render the country incapable of escaping the irresponsible colonialism, which is the true purpose pursued by those who launch such a notion.
+
+It is to be expected that those dominant interests will combat National Independence.
+In this case the intention to maintain the colonial regime becomes absolutely manifest.
+
+The country from which they extract enormous wealth annually they present as poor and worthy of North American charity, which, let it be said in passing, has never landed on our soil. It appears entangled with no possibility of redeeming itself. The intent is to make it depend economically exclusively on the North American market, and as a corollary, they point out that free cabotage would cease upon imposing its own tariffs, thereby provoking North American reciprocity, which would determine the ruin of the country.
+
+We have accused the colonial government of tolerating the concealment of assets in the possession of the large North American companies, of taxing their property at low rates, and of allowing them to pay the contributions they wish and when it is convenient for their interests.
+
+The proportion between the volume of commerce of a country and the total value of its property varies very little from nation to nation.
+The total foreign trade of the United States, exports and imports, amounts to the global sum of ten billion dollars and the total property amounts to three hundred and eighty billion dollars. The proportion is one to thirty-eight (1:38).
+The foreign trade of Puerto Rico gives a total of one hundred and seventy-five million and the taxable value of property amounts to only some three hundred and fifty million. The proportion of one to two (1:2) — and at times it has risen to two to three!

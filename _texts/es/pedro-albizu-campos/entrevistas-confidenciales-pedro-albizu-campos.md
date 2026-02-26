@@ -577,4 +577,6 @@ Electoral, para evitar la reorganización de los Partidos, dándoles
 Alianza y Coalición-Repúblico-Socialista. Así se viola el sufragio y se
 lleva al país a la necesidad de recurrir a medios adecuados para hacer
 respetar la voluntad del pueblo, que es separatista, en absoluto.
--"Nadie sabe -termina el Dr
+-"Nadie sabe -termina el Dr. Albizu Campos- hasta dónde puede ir un pueblo cuando se le acosa, se le explota y se le vilipendia sin medida ni cuartel. Y ese pueblo tiene que estar preparado para todas las contingencias que el impone el honor".
+
+J.B. LAMARCHE

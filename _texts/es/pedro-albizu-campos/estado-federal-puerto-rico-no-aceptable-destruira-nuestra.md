@@ -14,33 +14,7 @@ collections:
   - nacionalismo-puertorriqueno
   - independencia-puerto-rico
   - discursos
-  - biografia
 ---
-
-nacionalista. Son enjuiciados: Pedro Albizu Campos, Juan Antonio Corretjer, Erasmo Velázquez, Juan Gallardo Santiago, Julio H. Velázquez, Pablo Rosado Ortiz, Clemente Soto Vélez y Luis Florencio Velázquez. Actuaron como abogados defensores: Pedro Albizu Campos, Gilberto Concepción de Gracia, Julio Pinto Gandía y J.M. Toro Nazario. Los fiscales que intervinieron en el proceso fueron: A. Cecil Snyder, Marcelino Romaní, Jorge Ortiz Toro, James E. Ruffin y Amos W.W. Woodcock. Presidió el proceso el Juez Robert Cooper.
-20 de julio: El jurado integrado por siete puertorriqueños y cinco norteamericanos no logró ponerse de acuerdo y fue disuelto por el Juez Cooper. Los cinco norteamericanos votaron por la condena y los siete puertorriqueños votaron por la absolución. 27 de julio: se inició el segundo juicio contra el liderato nacionalista. Esta vez el jurado estuvo integrado por diez norteamericanos y dos puertorriqueños vinculados a los intereses norteamericanos. 31 de julio: a las 12:12 de la madrugada el jurado rindió veredicto de culpabilidad, fueron sentenciados de seis a diez años de cárcel y se les trasladó a la cárcel La Princesa mientras se presentaba un recurso de apelación.
-
-1937: 12 de febrero: El Tribunal Supremo de Estados Unidos confirmó la sentencia impuesta al liderato nacionalista por la Corte Federal en San Juan. 21 de marzo: En Ponce la Junta Municipal Nacionalista organizó un desfile de Cadetes y un mitin en la plaza de Ponce en protesta por el encarcelamiento del liderato nacionalista. La policía se opuso a la actividad y movilizó a centenares de agentes bien armados y con instrucciones de disparar a matar. Cuando los nacionalistas se proponían iniciar el desfile en la esquina de las calles Marina y Aurora, la policía comenzó el tiroteo masacrando a 19 personas y dejando mal heridas a cerca de 200 personas. Este suceso se conoce como: La Masacre de Ponce. 7 de junio: Albizu Campos y los otros siete líderes nacionalistas son trasladados a la Penitenciaría de Atlanta, Georgia, en Estados Unidos.
-
-1943: Junio: Albizu Campos sale moribundo de la Cárcel de Atlanta y es recluído en el Hospital Columbus en Nueva York.
-
-1945: Luego de dos años de tratamiento en el Hospital Columbus decide regresar a Puerto Rico, pero las autoridades norteamericanas le impiden el regreso a su Patria y se ve obligado a permanecer en la ciudad de Nueva York rindiendo informes a las autoridades federales de sus domicilios. Tenía la ciudad por cárcel.
-
-1947: 15 de diciembre: Albizu Campos regresa a Puerto Rico luego de extinguir seis años de presidio en las mazmorras de Atlanta, dos de hospitalización y otros dos de probatoria en Nueva York. En el acto de recibimiento que le celebra el pueblo puertorriqueño y el Partido Nacionalista en el Parque Sixto Escobar de San Juan, Albizu se reafirmó en su lucha abierta y franca contra el despotismo y el coloniaje. Pronunció sus célebres palabras: "Yo nunca he estado ausente...". Inicia la reorganización total del Partido Nacionalista y se prepara para dar un golpe revolucionario al régimen colonial.
-
-1950: 30 de octubre: Estalla la Insurrección Nacionalista. Albizu Campos es arrestado luego de una dramática batalla frente a su hogar en la esquina de las Calles Sol y Cruz de San Juan, la ciudad capital.
-
-1951: Febrero: Se enjuicia a Albizu Campos y se le condena a 80 años de presidio.
-
-1953: 30 de septiembre: Muñoz Marín lo indulta debido a la presión que ejercen los pueblos latinoamericanos en favor de la excarcelación del líder nacionalista. El indulto coincide con una situación delicada de su salud.
-
-1954: 1ro. de marzo: Los héroes nacionalistas Lolita Lebrón Soto, Rafael Cancel Miranda, Irvin Flores y Andrés Figueroa Cordero atacan a tiros a la Cámara de Representantes en el Capitolio de Estados Unidos. Muñoz Marín revoca el indulto a Albizu Campos concedido cinco meses antes y ordena su arresto inmediato. Luego de otra dramática lucha a tiros frente a su hogar en San Juan Albizu Campos fue sacado inconsciente y encarcelado nuevamente.
-
-1956: Abril: Albizu Campos sufre en la cárcel una trombosis que lo deja semiparalítico y sin habla. Se le traslada al Hospital Presbiteriano donde se le habilita una habitación-celda fuertemente custodiada.
-
-1964: 15 de noviembre: Muñoz Marín consciente de que Albizu Campos está al borde de la muerte lo indulta por segunda vez. Muñoz Marín no quería que Albizu Campos muriera en la cárcel.
-
-1965: 21 de abril: Albizu Campos, llamado "El Ultimo Libertador de América", muere en San Juan. Su viuda, La Dra. Laura Meneses declaró: "El asesinato está consumado. Albizu Campos murió en la prisión. Albizu Campos no ha muerto en su casa; cuando llegó a ella ya estaba muerto".
 
 IMPORTANTE ACTO POLITICO
 

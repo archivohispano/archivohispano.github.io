@@ -16,48 +16,6 @@ collections:
   - relaciones-internacionales
 ---
 
-San Juan.
-E. The municipal candidates and the candidates for the House shall be
-selected in primaries from candidacies submitted to the electorate
-by the Local Board or by a certain number of electors.
-The number of candidacies that the Local Board must submit to the
-electorate shall be three.
-F. In primaries in each district of the candidacies submitted to the
-electorate by the District Board, or a certain number of electors, the senators for said district shall be chosen. The District Board
-shall submit three candidacies to the electorate.
-G. In general primaries throughout the country, the candidates
-for senators and representatives at-large and the candidates
-for insular elective offices shall be chosen, from three candidacies that the
-Central Board shall submit to the electorate, it being stipulated that the Senatorial District
-of San Juan may not have more than one senator or representative at-large.
-H. The change of residence invalidates the right to represent the city
-that granted it, be it a Local Board, a District Board,
-Municipality, Representative District or Senatorial District.
-I. The Central Board with a representative designated ad hoc by each
-District Board, shall constitute the Board that shall recommend to the
-executive the candidates that he shall select for
-insular administrative positions.
-Fourth: distribution of power.
-
-This shall be done on the basis of proportional representation in accordance
-with the result of the 1920 elections.
-General sanitation must begin with the decentralization
-of representation. The progress of the country will be uniform and rapid.
-This is a patriotic understanding and requires new orientations that
-emanate from good faith and from the sacrifice of prejudices and vested interests. We can all well do without the current names, since there are no
-reasons for great pride for anyone when the partisan struggle of
-the last 25 years has reduced us to pariahs in our Homeland.
-You and Mr. Tous Soto have broken the collective inertia. The
-movement begins, and although we do not constitute a large people in territory
-or population, we can be great in material wealth, in art and
-sciences, and be at the forefront of civilization.
-Please accept this humble effort as proof of the
-appreciation that motivates the beautiful idea of rebuilding our Homeland.
-With all my consideration.
-
-Your friend and S.S.,
-P. ALBIZU CAMPOS.
-
 IN PUERTO RICO A PLAN IS PROPOSED FOR THE ANNEXATION
 OF THAT COUNTRY' TOGETHER WITH CUBA AND HAITI TO THE UNITED
 STATES<sup>6</sup>
@@ -151,9 +109,6 @@ people who granted him their representation. We will achieve with his
 election putting one more puppet at the disposal of Yankee imperialism
 in Puerto Rico, which will thus be able to escape the responsibility for its bad
 government and the sons of our country will bear it. Wise is the
-
-29
-
 Yankee policy that knows how to find good instruments for its execution!
 The debated phrase "sovereignty within sovereignty" some tell us
 that it means the federal "state" and others that it means
@@ -208,8 +163,6 @@ Rico to any meeting after this agreement.
 a skillful formula to maintain the cohesion of the hosts so as not to
 see the directory reduced to a pretentious skeleton. The truth is
 that the Union of Puerto Rico and the so-called
-30
-
 Republican Party has been dissolved and a new party dominated by the
 plutocracy has been constituted.
 No people could expect any benefit from this combination and
@@ -232,8 +185,6 @@ impositions of its own or of strangers.
 
 PEDRO ALBIZU CAMPOS
 Ponce, Puerto Rico, May 12, 1924
-
-31
 
 OUR INTERVIEWS
 
@@ -277,9 +228,6 @@ attention?
 -None.
 -We would like to tell the readers of "Poliedro" your personal
 political process until its culmination as Vice-president of the
-
-34
-
 Nationalist party.
 I was always a defender of the absolute independence of the Homeland.
 I called the annexationist "republicans" renegades and the
@@ -368,9 +316,6 @@ figure in the world Parnassus
 in the face of the United States.
 -Our Homeland will be a free and sovereign nation against the will
 of the United States. Its independence without limitations as well as that of the
-
-36
-
 nations of the Caribbean and of Central America under the pernicious influence
 of the United States currently, will be imposed as a
 universal necessity that sustains the balance between the nations, and a state of
@@ -388,8 +333,6 @@ These are in broad strokes some of the ideas poured out by Albizu
 Campos in the course of our long conversation. Naked and frank,
 they enclose between the lines serious and profound commentaries. We
 meditate...
-
-37
 
 "MACFADDEN IS THE ONLY CONGRESSMAN WHO HAS
 PENETRATED THE CONSCIENCE OF THIS PEOPLE. WE ARE
@@ -435,8 +378,6 @@ Mac Fadden with respect to that "the North American government must adopt
 measures to avoid that the pro-American feeling does not weaken in
 Puerto Rico"?
 
-38
-
 "Puerto Rico has never been Yankee nor will it ever be. Every measure
 that the government of the United States adopts to denature our
 country, with the purpose of "Yankeeizing" it, assimilating it to annex it
@@ -454,5 +395,3 @@ full independence of Borinquen".
 "And that duty will be imposed on it by the force of incontestable
 international facts that are approaching to reestablish the equilibrium disturbed
 by North American imperialism".
-
-39

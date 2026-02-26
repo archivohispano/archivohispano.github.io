@@ -294,3 +294,94 @@ sexos en estas escuelas destinadas a educar los futuros directores de la
 nación. "Intensifican los estudios clásicos porque saben que si se
 desvinculan de las fuentes originales de la cultura occidental corren el
 peligro de reversarse a la barbarie en pocas generaciones".
+
+Al referirse a la escuela bisexual el conferenciante se pronunció
+refractario a ella, manifestando que su establecimiento obedeció a
+razones económicas y no pedagógicas. Dijo que aunque la mujer y el
+hombre pueden llegar a conocer las nociones superiores de la sabiduría
+y del conocimiento científicos necesitaba una metodología distinta que
+estuviese en consorcio con la mentalidad específica de cada uno. Hay
+materias que la mujer asimila con mayor facilidad y hay otras materias
+que el hombre asimila con mayor facilidad; por lo tanto la separación
+de los sexos y la diferenciación de los métodos es rigurosa. La mayor
+parte de los textos actuales están escritos por hombres para
+mentalidades masculinas y es necesario que los textos para el sexo
+femenino estén escritos por mujeres que saben cómo provocar la
+reacción deseada en la mentalidad femenina. "Además la mujer debe
+educarse en el aislamiento de su sexo, divorciada de toda sugestión
+malsana que pueda perturbar su mentalidad". Esta teoría pedagógica
+sustentada por el señor Albizu Campos fue de lo más brillante y original
+de su docta conferencia. En este tipo de educación para la clase que
+regirá los destinos nacionales se siembra un intenso patriotismo en el
+ánimo del estudiante y se le inculca el criterio de que su pueblo es el
+superior del planeta. La enseñanza se transmite enteramente por
+profesores masculinos.
+
+La educación para las masas destinadas a la explotación "es la
+pacotilla de la cultura". Se utiliza por economía la escuela bisexual, la
+enseñanza está desvinculada de las fuentes clásicas greco-latinas para
+mantener al pueblo en la ignorancia y su finalidad es crear la
+microespecialización o un profesionalismo barato pseudo-intelectual
+insensible a todos aquellos valores ajenos a su profesión.
+"Esta educación de pacotilla es la que se ha implantado en Puerto
+Rico. ¿Por qué los partidarios del sometimiento no han importado la
+educación superior que existe allá en el continente para las clases
+dominantes?
+El conferenciante aludió directamente a unas declaraciones del
+Comisionado de Educación, doctor Padín, ante la "Union Church" de
+esta capital. Admite el doctor Padín que el sistema educativo no sabe a
+dónde va, que en él la política está antepuesta a la pedagogía y que es el
+Congreso de Estados Unidos el autorizado a determinar la orientación a
+seguir. El doctor Padín delega la orientación de un pueblo en el poder
+invasor y en eso está equivocado. Esa iniciativa es exclusivamente
+patrimonio de la nación portorriqueña que es la llamada a determinar
+cuál ha de ser su destino político y cultural. Y quiero repetir aquí para
+salvar mi responsabilidad histórica que está podrido un magisterio, un
+claustro y un régimen que inculca a la niñez el sometimiento".
+
+"Hace tiempo que hablaba con un pedagogo de esta Universidad y
+le pregunté su opinión sobre el problema educativo de Puerto Rico. Me
+dijo que los pedagogos no tenían opinión formada sobre este problema
+y que en cuanto a la enseñanza bilingüe habría que experimentar
+durante algunos años más. Y yo replico: ¿quién da derecho a nadie para
+experimentar con la vida espiritual de un pueblo?
+"Un pueblo puede resistir el despojo físico de sus tierras porque la
+tierra no se destruye y éstas pasan intactas a la posteridad, pero un
+pueblo no puede resistir el despojo moral perpetrado a través de la
+escuela sin que se le reduzca a una manada de esclavos que renieguen
+hasta de su propia personalidad.
+"De seguir este sistema educativo terminaremos en la ignorancia,
+que es el peor manicomio a que se puede condenar a un pueblo".
+El conferenciante subrayó la ausencia del civismo en la escuela
+donde por el contrario "el niño aprende a amar una patria que no es la
+suya y a renegar de sus orígenes". "Según la 'Historia de Puerto Rico'
+que se enseña en las escuelas, la civilización empezó en el 1898 cuando
+llegaron las tropas americanas".
+El conferenciante se refirió luego a la Universidad y manifestó que
+sus directores tenían un privilegio inmenso y era hacer de aquella
+institución docente la verdadera Universidad de Puerto Rico, donde la
+enseñanza se efectuase en la lengua vernácula y se implantasen los
+estudios clásicos.
+Formuló agrías críticas contra el Colegio de Leyes en el sentido de
+que la jurisprudencia se enseñaba a base de las opiniones de los jueces
+de Estados Unidos y no a base de nuestros códigos, que son la
+cristalización de una larga experiencia y sabiduría. "Estados Unidos está
+a dieciséis siglos por detrás de nosotros en materia jurídica", afirmó el
+conferenciante, e hizo un extenso análisis sobre este tópico para
+comprobar su tesis con autoridades norteamericanas.
+Recomendó también que los catedráticos debieran contratarse por
+oposición, como habían recomendado los estudiantes en memorial
+presentado al nuevo Rector.
+Refutó la tesis de que la educación es democrática en Puerto Rico
+por el hecho de que aquellos sobre quienes recae la carga contributiva
+del país no pueden enviar sus hijos a la escuela.
+El conferenciante clausuró su conferencia dirigiéndose a las
+instituciones religiosas del país, "Yo acuso a las instituciones religiosas
+del país de cruzarse de brazos ante la grave crisis que agobia a la patria y
+por no establecer escuelas que neutralicen la obra demoledora del
+vigente sistema educativo", dijo.
+El señor Albizu Campos recibió clamorosas ovaciones en el
+transcurso de su conferencia. El acto se terminó como a las once de la
+noche dentro del mayor entusiasmo.
+
+Manuel Rivera Matos
