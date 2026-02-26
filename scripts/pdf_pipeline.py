@@ -55,10 +55,12 @@ try:
 except ImportError:
     sys.exit("ERROR: pip install google-generativeai")
 
+# openai/DashScope optional -- only needed if QWEN_API_KEY is set
 try:
-    from openai import OpenAI
+    from openai import OpenAI as _OpenAI
+    _OPENAI_AVAILABLE = True
 except ImportError:
-    sys.exit("ERROR: pip install openai")
+    _OPENAI_AVAILABLE = False
 
 try:
     import PIL.Image
@@ -171,8 +173,13 @@ def get_gemini() -> genai.GenerativeModel:
     return genai.GenerativeModel("gemini-2.0-flash")
 
 
-def get_qwen() -> OpenAI:
-    return OpenAI(
+def get_qwen():
+    """Return a DashScope/Qwen client if key is configured, else None."""
+    if not _OPENAI_AVAILABLE:
+        return None
+    if not QWEN_API_KEY or QWEN_API_KEY in ("YOUR_QWEN_API_KEY_HERE", ""):
+        return None
+    return _OpenAI(
         api_key=QWEN_API_KEY,
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
     )
@@ -291,7 +298,7 @@ def extract_all_pages(doc: fitz.Document, has_text_layer: bool) -> str:
 
 
 # =============================================================================
-# QA GATE 1 -- OCR Quality  (Qwen)
+# QA GATE 1 -- OCR Quality  (Qwen if available, else Gemini)
 # =============================================================================
 def qa_ocr_quality(text: str) -> QAResult:
     prompt = (
@@ -299,16 +306,21 @@ def qa_ocr_quality(text: str) -> QAResult:
         "Check: character noise, language consistency (Spanish), completeness, "
         "minimum 80 words.\n"
         f"Text sample (first 1500 chars):\n{text[:1500]}\n\n"
-        'Return JSON only: {"score": int, "issues": ["issue1"]}\n'
+        'Return JSON only -- no markdown: {"score": int, "issues": ["issue1"]}\n'
         "5=perfect, 4=minor, 3=fixable, 2=poor, 1=unusable"
     )
+    qwen = get_qwen()
     try:
-        resp  = get_qwen().chat.completions.create(
-            model="qwen-plus",
-            messages=[{"role": "user", "content": prompt}],
-            response_format={"type": "json_object"},
-        )
-        data  = json.loads(resp.choices[0].message.content)
+        if qwen:
+            resp = qwen.chat.completions.create(
+                model="qwen-plus",
+                messages=[{"role": "user", "content": prompt}],
+                response_format={"type": "json_object"},
+            )
+            data = json.loads(resp.choices[0].message.content)
+        else:
+            raw  = _strip_json_fences(get_gemini().generate_content(prompt).text)
+            data = json.loads(raw)
         score = max(1, min(5, int(data.get("score", 3))))
         return QAResult(score=score, passed=score >= QA_THRESHOLD, issues=data.get("issues", []))
     except Exception as exc:
@@ -317,7 +329,7 @@ def qa_ocr_quality(text: str) -> QAResult:
 
 
 # =============================================================================
-# STAGE 3 -- Text Cleanup  (Qwen)
+# STAGE 3 -- Text Cleanup  (Qwen if available, else Gemini)
 # =============================================================================
 def clean_text(raw: str, issues: list, extra_instruction: str = "") -> str:
     issues_str = "\n".join(f"- {i}" for i in issues) if issues else "- General OCR artifacts"
@@ -332,12 +344,16 @@ def clean_text(raw: str, issues: list, extra_instruction: str = "") -> str:
         "Return ONLY the cleaned Spanish text.\n\n"
         f"TEXT:\n{raw}"
     )
+    qwen = get_qwen()
     try:
-        resp = get_qwen().chat.completions.create(
-            model="qwen-plus",
-            messages=[{"role": "user", "content": prompt}],
-        )
-        return resp.choices[0].message.content.strip()
+        if qwen:
+            resp = qwen.chat.completions.create(
+                model="qwen-plus",
+                messages=[{"role": "user", "content": prompt}],
+            )
+            return resp.choices[0].message.content.strip()
+        else:
+            return get_gemini().generate_content(prompt).text.strip()
     except Exception as exc:
         print(f"      Cleanup error: {exc}")
         return raw
@@ -594,7 +610,7 @@ def _retry_translate(es_text: str, es_title: str, author_cfg: dict,
 
 
 # =============================================================================
-# QA GATE 4 -- Translation Quality  (Qwen)
+# QA GATE 4 -- Translation Quality  (Qwen if available, else Gemini)
 # =============================================================================
 def qa_translation(es_text: str, en_text: str, author_cfg: dict) -> QAResult:
     a_name    = author_cfg["author_name"]
@@ -607,16 +623,21 @@ def qa_translation(es_text: str, en_text: str, author_cfg: dict) -> QAResult:
         "3. Natural accurate English (1-5)\n\n"
         f"Sample EN:\n{sample}\n\n"
         f"ES original (first 1500 chars):\n{es_text[:1500]}\n\n"
-        'Return JSON only: {"score": int, "issues": [str]}\n'
+        'Return JSON only -- no markdown: {"score": int, "issues": [str]}\n'
         "5=excellent, 4=good, 3=acceptable, 2=poor, 1=unusable"
     )
+    qwen = get_qwen()
     try:
-        resp  = get_qwen().chat.completions.create(
-            model="qwen-plus",
-            messages=[{"role": "user", "content": prompt}],
-            response_format={"type": "json_object"},
-        )
-        data  = json.loads(resp.choices[0].message.content)
+        if qwen:
+            resp = qwen.chat.completions.create(
+                model="qwen-plus",
+                messages=[{"role": "user", "content": prompt}],
+                response_format={"type": "json_object"},
+            )
+            data = json.loads(resp.choices[0].message.content)
+        else:
+            raw  = _strip_json_fences(get_gemini().generate_content(prompt).text)
+            data = json.loads(raw)
         score = max(1, min(5, int(data.get("score", 3))))
         return QAResult(score=score, passed=score >= QA_THRESHOLD, issues=data.get("issues", []))
     except Exception as exc:
@@ -1162,7 +1183,7 @@ def main():
     if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_GEMINI_API_KEY_HERE":
         sys.exit("ERROR: GEMINI_API_KEY not set. Edit scripts/pipeline_config.py")
     if not QWEN_API_KEY or QWEN_API_KEY == "YOUR_QWEN_API_KEY_HERE":
-        sys.exit("ERROR: QWEN_API_KEY not set. Edit scripts/pipeline_config.py")
+        print("INFO: QWEN_API_KEY not set -- all stages will use Gemini (fully functional).")
 
     def _run(entry):
         has_text = entry["has_text_layer"]
