@@ -58,4 +58,14 @@ That money is in the possession of North American citizens on the continent.
 Conservative estimates on the financial value of the commercial monopoly that the United States imposed on us by force and by virtue of which we are obliged to sell our merchandise to the North Americans at the price that suits them, and we also have to pay for the North American merchandise the price that the North Americans want to impose on us, yield a figure of no less than five hundred million gold dollars.
 Of course, the result of that merciless exploitation and abuses perpetrated on our nationality is evident in the universal poverty, in the diseases and high mortality of our population, the highest in the Americas.
 Seventy-six percent of the national wealth is in the hands of a few North American corporations, for whose exclusive benefit the present military government is maintained.
-A stupid assault has been directed against our Christian social order in a brutal effort to dissolve the structure of our family and destroy the morality of a noble race, imposing through government agencies the diffusion of the practices of prostitution, under the deceptive banner of birth control; the ridiculous effort to destroy our Hispanic civilization with a system of ins-
+A stupid assault has been directed against our Christian social order in a brutal effort to dissolve the structure of our family and destroy the morality of a noble race, imposing through government agencies the diffusion of the practices of prostitution, under the deceptive banner of birth control; the ridiculous effort to destroy our Hispanic civilization with a system of public instruction used in the United States to enslave the masses; the arrogant pretension of guiding in the spiritual order a nation whose soul has been forged in pure Christianity; these are our most serious grievances.
+
+The United States of America stands face to face in Puerto Rico with the spirit of Lexington, of Zaragoza, of Ayacucho.
+
+The present imperial policy by which it is intended to dissolve nationalism through terror and assassination is a provocation and an imperialist foolishness to satisfy a few North American corporations.
+
+The people of the United States, if they have not become totally insensible to the principles that allowed them to be a free nation, must have common sense, must be guided exclusively by their national interest.
+
+That national interest is guaranteed by respecting the independence of Puerto Rico.
+
+These are the aspirations of the nationalism of Puerto Rico.
