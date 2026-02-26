@@ -1,0 +1,423 @@
+---
+layout: text
+lang: es
+title: LOS ACTOS CELEBRADOS POR EL PARTIDO NACIONALISTA EN LA CIUDAD DE LARES EL DIA VEINTITRES DE SETIEMBRE EN CURSO
+author: pedro-albizu-campos
+author_name: Pedro Albizu Campos
+date: 1932-09-23
+source: Obras Escogidas 1923-1936
+source_detail: "Palabras del Licenciado Pedro Albizu Campos durante las actividades del Partido Nacionalista en Lares, 23 de septiembre de 1932"
+country: puerto-rico
+permalink: /es/textos/pedro-albizu-campos/actos-celebrados-partido-nacionalista-ciudad-lares-dia-veintitres
+english_version: /en/texts/pedro-albizu-campos/actos-celebrados-partido-nacionalista-ciudad-lares-dia-veintitres
+collections:
+  - independencia-puerto-rico
+  - nacionalismo-puertorriqueno
+  - discursos
+---
+
+LOS ACTOS CELEBRADOS POR EL PARTIDO NACIONALISTA
+EN LA CIUDAD DE LARES EL DIA VEINTITRES DE SETIEMBRE
+EN CURSO
+
+HABLA ALBIZU CAMPOS
+Cuando fue anunciado para hacer uso de la palabra el Presidente del
+Partido Nacionalista la música tocó La Borinqueña mientras el público
+puesto de pie tributaba delirantes aplausos que se prolongaron por varios
+minutos.
+"La tendencia humana es ser parasitaria. Sólo una concepción
+espiritual de la vida nos eleva a la ofrenda de lo que poseemos por una
+causa justa. Nuestro pueblo en su decadencia moral es un pueblo
+parasitario. Pero esta apoteosis no es un acto parasitario. No venimos
+aquí a levantar un mito, ni a vivir una gloria pasada. Es muy fácil hablar
+de las glorias ajenas, pero eso no hace glorioso al que habla. Venimos
+aquí como un acto de consagración a los principios que informaron a
+los hombres del 68.
+"Amamos y adoramos a la patria como una diosa. La última
+partícula de nuestro suelo es cosa sagrada y no permitiremos que manos
+extrañas lo profanen. Pero más alto que ese culto es el culto de nuestros
+progenitores y no permitiremos que manos extrañas lo profanen. Ellos
+representan el simbolismo de la vida que poseemos y de nuestra
+grandeza ante la Eternidad. Los pueblos que no conocen a sus
+progenitores, son pueblos sepultos, son pueblos muertos. Nosotros al
+rememorar hoy su memoria, resultamos indignos sucesores de su
+memoria. Los pueblos son ingratos porque los hombres son ingratos; así
+nuestro pueblo no conoce los descendientes de aquellos grandes
+hombres. Y tenemos que honrar su memoria en su misma carne".
+Entró luego el orador a hacer un análisis sobre la trascendencia de la
+personalidad. "El problema de Puerto Rico", dijo, "es el problema de
+su personalidad. No hay responsabilidad donde no hay ejercicio de
+poderes. Un pueblo gobernado por un poder extraño es un pueblo
+irresponsable".
+Dijo que Puerto Rico estaba en las condiciones de un loco que no
+tiene personalidad ante la ley por ser un ente irresponsable y se le pone
+un tutor para administrarle los bienes.
+"El imperio dice a la colonia: "yo ejerzo el poder porque eres un
+incapacitado". Y dispone de todas las tierras y bienes a título de tutor.
+Puerto Rico pasa en la actualidad ante el mundo como un pueblo de
+imbéciles que no tiene capacidad para resolver sus propios asuntos. Para
+disfrutar de derechos hay que tener personalidad y hablar con las demás
+potencias de igual a igual".
+Analizó el orador las consecuencias de la negación de la
+personalidad en todos los órdenes, especialmente en el orden educativo.
+Dijo que el imperio establecía el sistema educativo que convenía a sus
+fines y por lo tanto se ocupaba de que no se dijera la verdad en las
+escuelas.
+Abordó también el orador el problema religioso. Dijo que ninguna
+religión en nuestro país podía ser enemiga de nuestra Independencia;
+que nadie a título de católico o protestante podía combatir la causa de
+nuestra libertad. Manifestó que Puerto Rico ante la Santa Sede era una
+nación independiente que disfrutaba de soberanía eclesiástica. Que en
+su día el Partido Nacionalista enviaría una comisión ante el Vaticano
+para plantear el caso de Puerto Rico. Manifestó que había que
+nacionalizar todas las instituciones religiosas.
+Como este año no figuró en programa la misa celebrada el año
+pasado en honor a los hérores del 68 el señor Albizu Campos se dirigió
+personalmente al Rvdo. Martínez, de aquella parroquia. "El año
+pasado", dijo, "se cantó un Te Deum en la iglesia de este pueblo y el
+Rvdo. Martínez pronunció el discurso más elocuente en la asamblea que
+dimos en este mismo teatro. El reverendo Martínez se reveló aquella
+tarde como un verdadero portorriqueño. El reverendo Martínez le debe
+una explicación a su pueblo de por qué no se ha celebrado esa misa. El
+debe explicar qué coacciones secretas han impedido que se eleve hoy el
+perfume de una plegaria a los mártires de nuestra Independencia".
+Terminó el orador diciendo que aquella peregrinaciónera un acto de
+desagravio a los héroes del 68. El señor Albizu Campos fue cargado en
+hombros por la multitud clausurándose la asamblea en medio de un
+delirante entusiasmo.
+
+EL PARTIDO NACIONALISTA PROCLAMA NUEVE
+DIAS DE DUELO CON MOTIVO DE LA MUERTE DE
+DON PEDRO ANGLERO, SUPERVIVIENTE DEL GRITO
+DE LARES69
+Cada vez que desaparece un hombre libre, la Patria se estremece y el
+futuro se anubla: la una, sintiendo en su más íntimas esencias la
+dolorosa embestida del Destino y el otro, padeciendo la orfandad de las
+virtudes constitutivas de la esperanza. De ahí que, al descender de su
+pedestal augusto la hombría obedeciendo leyes férreas y eternas sea
+necesario restañar la herida con visión de eternidad, pues de lo contrario
+sucumbirá, al peso de la desgracia, el sentido de la armonía espiritual.
+Los héroes de la magna odisea de Lares hicieron palpitar el corazón
+de su patria por lo mismo que aquellos troncos venerandos habían
+arraigado en el fondo del Espíritu portorriqueño.
+De entonces a esta parte, la patria, vilipendiada en horas de júbilo
+por los detractores del Ideal, se guardó muy hondo en sus entrañas la
+ceniza de sus muertos gloriosos, segura de que los enemigos de la
+Libertad, por carecer de la visión de lo etemo, no están en la
+disposición de respetar la ceniza sagrada de los muertos.
+Pero hoy, sacudida la esencia misma de la patria por la muerte del
+superviviente de la odisea de Lares, don Pedro Angleró, a la edad de
+ciento diez años, se nos antoja que las figuras proceras de la Revolución
+del 68 hacen su aparición en el proscenio de su pueblo e imponen
+silencio, con la autoridad moral que los indujo a defender, en no lejano
+día, la razón de los ideales y la trascendencia del pensamiento libertario.
+Ha muerto hoy, en el Barrio Obrero, de esta ciudad de San Juan
+Bautista, para la vida física, don Pedro Angleró, en el momento en que
+la patria, dolida y sangrante, llora la ausencia de sus hijos verdaderos y
+se hunde en la desesperación del fatalismo histórico. Ha muerto un
+prócer centenario, en cuyas venas latía la redención de un pueblo
+sojuzgado por el poder de la fuerza y por la negación de algunos de sus
+hijos. Ha caído el excelso estandarte de la epopeya borincana, y, al
+caer, con la tristeza de los grandes y la felicidad de los hermosos del
+alma, se ha levantado con la elgancia de los mártires que siempre se
+elevan por sobre el tabernáculo, estando en comunión con el perfume del
+sacrificio.
+Por sobre el tabernáculo de las desilusiones ha saltado este noble
+defensor de la moralidad y este sacerdote de la justicia; por sobre el
+tabernáculo que la indiferencia iza en horas de negativa potencialidad,
+para imponer el degollamiento de la fe y decretar que la fuerza vital del
+Derecho radica en la imposición de una desigualdad y no en la
+conciencia de los hombres.
+Don Pedro Angleró ha muerto para la vida física; pero como en
+toda acción de libertad convergen dos corrientes vitales, la física y la
+moral, don Pedro Angleró, al perder la vibración de la materia, se ha
+apoderado de las fuentes de la moralidad, la planta de fe que él
+sembrara en el surco vivo de la patria, será cultivada con celo y cariño
+por la mano hidalga de la presente generación. Y no morirá nunca
+porque no puede morir el sueño cristalizado al calor de la Eternidad.
+Ante el dolor que embarga las conciencias de los hombres libres
+portorriqueños ante la desaparición de este caballero del Ideal, el
+Nacionalismo de Puerto Rico, se conmueve en su fondo de pureza y
+amor patrios y tributa al noble paladín del sentimiento, las lágrimas que
+acaso todo Puerto Rico habrá de derramar ante las cenizasvenerandas de
+sus muertos.
+El nacionalismo de Puerto Rico, por medio del presente mensaje de
+duelo y en concordancia con la ilustre prosapia de don Pedro Angleró,
+VARON ESTETICO del sueño borincano, proclama nueve días de
+duelo nacional y ordena a las Juntas y sub-Juntas Nacionalistas de
+Puerto Rico que durante estos nueve días dedicados a rendir homenaje
+religioso a la memoria del noble varón, se ponga a media asta la Bandera
+de la patria y se impongan del Dolor que nos produce la caída de un
+Hombre que tenía el mérito de ser un verdadero Hombre.
+Dada en San Juan de Puerto Rico, hoy, a los diez y seis días de
+octubre de 1931, y año 64 de la Proclamación de la República.
+
+LA JUNTA NACIONAL
+
+P. ALBIZU CAMPOS
+Presidente
+
+M. RIVERA MATOS
+Secretario General
+
+ESTADOS UNIDOS TIENE UN DEBER QUE CUMPLIR
+CON NOSOTROS
+Y ES RETIRARSE DE NUESTRO PAIS - ES LA
+UNICA MANERA DE DEMOSTRARLE RESPETO AL
+DERECHO DE GENTES - ALBIZU CAMPOS
+En la mañana del lunes visitamos en su despacho de las oficinas
+centrales del Partido Nacionalista, al jefe máximo Dr. Pedro Albizu
+Campos, quien en aquellos momentos se encontraba atareadísimo,
+contestando la numerosa correspondencia del interior y del extranjero
+procedente de innumerables organismos, correligionarios y amigos
+dentro y fuera de la nación.
+Al notar nuestra presencia en su despacho inmediatamente nos
+extendió su firme diestra y con su proverbial sonrisa inquirió: "¿qué
+noticias hay?" "Ninguna, Don Pedro", le contestamos, "fuera de las
+que usted pueda suministrarnos. No olvide que los lectores de LA
+NACION esperan con ansiedad sus anunciadas declaraciones".
+-Pregunta, pues - repuso.
+-¿Qué nos dice usted del momento político actual?
+-"Ya tuve ocasión de exponer oficialmente desde la tribuna
+nacionalista en Guayama nuestra actitud en relación con el presente
+panorama político del país.
+-"Como quiera que en otra parte de esta edición publicamos la
+reseña del acto de Guayama le formulamos inmediatamente otra
+pregunta.
+-¿Cómo considerará el Congreso de Estados Unidos el proyecto del
+gobernador electivo del Sr. La Guardia, Representante Demócrata por
+Nueva York en dicho cuerpo legislativo?
+-Al movimiento nacionalista no le interesa la consideración que le
+dé el Congreso de Estados Unidos a ningún proyecto que se someta a
+dicho cuerpo legislativo. Sostenemos que la nación puertorriqueña es
+árbitra absoluta de su destino, que es nulo el Tratado de París impuesto
+por Estados Unidos a España, en lo que se refiere a Puerto Rico, porque
+nuestro país no fue parte contratante en dicho tratado; ni España tenia
+poderes para ceder a Puerto Rico ni Estados Unidos para aceptarlo en
+cesión.
+A virtud de la Carta Autonómica, que constituía un tratado entre
+la Madre Patria y la isla de Puerto Rico, quedó reconocida
+internacionalmente nuestra soberanía y era deber de toda nación
+respetarla empezando por Estados Unidos.
+Cuando el Nacionalismo se levanta enérgico para la reivindicación
+de su soberanía, el poder invasor pretende desorientar la opinión
+pública, para amparar su usurpación y su despojo imponiendo
+concesiones al país oprimido que perpetúen el régimen opresor
+extranjero.
+
+El liberalismo tiene sus insolencias. No olvidemos, los pretensos
+liberales de todos los imperios; siempre han sido imperialistas que han
+sugerido los medios más sutiles para completar la absorción extranjera.
+Es preferible para una nacionalidad, víctima de una ocupación militar
+un despotismo franco y decidido que sirve de acicate y que despierta la
+resistencia indígena, a un despotismo velado y liberal que anestesia la
+conciencia nacional.
+
+Estados Unidos tiene un deber que cumplir con nosotros. Y es
+retirarse inmediatamente de nuestro país. Es la única manera de
+demostrarle respeto al derecho de gentes.
+
+Daño inmenso ha causado esa nación invasora a nuestra
+nacionalidad, al privarla del ejercicio de su soberanía y someterla a la
+más bárbara e inhumana explotación económica que conoce la historia.
+Si cualquier legislador norteamericano quiere hacer algún bien a su
+patria debe proponerle el respeto al derecho ajeno. Si el representante
+La Guardia quiere que nos ocupemos de sus proyectos que le proponga
+a su país la retirada inmediata de las fuerzas armadas norteamericanas
+de nuestra tierra, y el pago de reparaciones que nos deben por los daños
+inmensos causados en nuestro país durante 33 años de ocupación
+militar norteamericana.
+
+"Las manifestaciones aparentementeliberales del Señor La Guardia
+van dirigidas especialmente a la colonia puertorriqueña de Nueva York
+para obtener de ella los votos que necesita el señor La Guardia para
+sostenerse en el poder.
+
+"La Junta Nacional ha dado instrucciones a la Junta de Nueva York
+que ilustre a nuestros compatriotas en aquella Babel moderna que se
+inhiban de las luchas intestinas en aquel país para que no dejen explotar
+sus sentimientos por ningún político norteamericano; que su único
+deber es organizarse para restaurar la República de su patria.
+-¿Qué significación le atribuye usted al movimiento revolucionario
+de Filipinas?
+Temiendo la revolución filipina el gobierno norteamericano por Ley
+del año 1917 se comprometió a reconocer la Independencia de las Islas
+Filipinas (tan pronto hubiese un gobierno estable) y en opinión del
+gobierno de Estados Unidos, aún no ha habido "un gobierno estable"
+en Filipinas ni lo habrá nunca a pesar de que el gobierno filipino es de
+hechura norteamericana.
+
+"Llevan los filipinos con esta promesa catorce años de espera".
+
+"En ese período se han ido afianzando los intereses
+norteamericanos. Se ha estimulado el sentimiento conservador en
+sectores nacionalistas importantes de aquel archipiélago a tal punto que
+el eminente estadista Roxas hace más o menos diez meses, ha levantado
+la bandera de la no cooperación adoptando tácticas muy parecidas a las
+del nacionalismo puertorriqueño.
+"Los filipinos ven claro que el momento es oportunísimo para la
+supresión inmediata de la ocupación militar norteamericana. Estados
+Unidos no cuenta hoy con una nación amiga en todo el Universo,
+porque ha quedado desemascarada su política de absorción. Está
+atravesando el poder norteamericano por una crisis interna de caracteres
+revolucionarios producida por la crisis económica, consecuencia de la
+pérdida de los mercados.
+"Creo firmemente que los filipinos actuarán para imponer su
+independencia.
+"La oportunidad que tiene la nación puertorriqueña es idéntica a la
+que tiene la nación filipina. Nuestro deber es actuar inmediatamente.
+
+LA RADIO CORPORATION OF PORTO RICO' SUBSIDIARIA
+DE LA INTERNATIONAL TELEGRAPH & TELEPHONE CO.,
+SE NIEGA A TRASMITIR DISCURSOS POLITICOS
+
+CENSURA SOBRE LA PROPAGANDA DEL NACIONALISMO.
+DECLARACIONES DEL PRESIDENTE DEL PARTIDO DON
+PEDRO ALBIZU CAMPOS
+"Hace tiempo se viene ejerciendo influencia sobre la compañía
+"Radio Corporation of Porto Rico" subsidiaria de la "International
+Telegraph and Telephone Co." para que se suspendiese la trasmisión por
+radio de los discursos nacionalistas.
+Es absolutamente cierto que el gobierno norteamericano quería
+suprimir nuestra propaganda por la vía del aire y es también
+absolutamente cierto que los elementos yancófilos anhelaban el mismo
+propósito.
+
+Debemos llamar la atención de que en Estados Unidos no existe la
+libertad de palabra por la vía aérea. Impera allí lo que se ha
+denominado la censura indirecta que es una admisión formal de que no
+existe libertad de palabra, ni de pensamiento, en aquel país. En el
+Congreso yanqui se está considerando un proyecto de ley para suprimir
+esas restricciones del pensamiento y del derecho.
+
+Bajo un régimen de fuerza como el que impera en Puerto Rico, bajo
+esta ocupación militar norteamericana, no existe ningún derecho y sí
+una mera tolerancia en la emisión del pensamiento, porque el poder
+norteamericano confía en su fuerza y en el dominio de la prensa.
+
+La propaganda por la vía inhalámbrica surtió efectos nacionales e
+internacionales y ha obligado al invasor a desenmascararse, imponiendo
+una censura.
+
+La excusa que da la "Radio Corporation of Porto Rico", subsidiaria
+de la "International Telegraph and Telephone Co." es baladí. Alegar
+que se suprime una emisión de pensamiento tan vital para Puerto Rico,
+para dedicar sus aparatos a anuncios comerciales y a noticiario de las
+carreras del Hipódromo, es confesar que están actuando bajo la
+coacción del gobierno norteamericano y en inteligencia con la política
+opresora de ese gobierno, especialmente cuando esas trasmisiones por
+radio representaban un ingreso muy sustancioso para la empresa.
+
+Se pretende sitiarnos por el aire ya que lo estamos por mar y tierra.
+
+Aquí se publican los cables que no perjudiquen a la política
+imperialista norteamericana y las agencias de información Prensa
+Asociada y Prensa Unida trasmiten noticias que interese a ese gobierno.
+La "International Telegraph and Telephone Co." ha incurrido en una
+gravísima responsabilidad al prestarse a esta maniobra del gobierno
+norteamericano y hemos de exigir la correspondiente responsabilidad.
+El mismo apresuramiento que ha tenido el jefe de la ocupación
+norteamericana, Coronel Roosevelt, para desmentir afirmaciones no
+hechas hasta el momento, sobre la ingerencia del gobierno
+norteamericano en este grave asunto, confirma esa ingerencia.
+El país puede levantar una estación trasmisora si así lo desea. Y
+debe hacerlo inmediatamente, para acabar con el monopolio de que
+goza la empresa extranjera "International Telegraph and Telephone
+Co."
+
+Cierto es que se necesita el permiso para trasmitir, que podría
+denegar el poder ocupante norteamericano. Vale la pena, sin embargo,
+obligar al invasor a quitarse la careta por completo.
+Si se negase ese permiso, se debe prescindir del mismo. La nación
+puertorriqueña no debe tolerar ser sitiada por el aire.
+La "Radio Corporation of Porto Rico", subsidiaria de la
+"International Telegraph and Telephone Co." y denominada Estación
+W.K.A.Q., se ha declarado enemiga de nuestros derechos sagrados. La
+nación entera tiene que exigirle responsabilidades a esta corporación
+local y a la "International Telegraph and Telephone Co.," de la cual es
+subsidiaria y que sin duda ha sancionado ese atentado contra nuestra
+soberanía.
+
+CARTA AL SR. LUIS SANCHEZ MORALES
+
+A 1 de julio de 1932.
+
+Hon. Luis Sánchez Morales,
+Presidente del Senado y a los
+señores Senadores.
+
+Señores:
+En nuestro memorial radicado ante la legislatura al abrirse
+la presente sesión extraordinaria, en virtud de un mandato de la Junta
+Nacional del partido Nacionalista de Puerto Rico, reclamamos para
+nuestra organización patriótica igualdad ante la ley electoral. La Prensa
+de hoy nos informa que ese cuerpo ha aprobado en tercera lectura el
+proyecto de Ley electoral sometido a su consideración. Al
+Nacionalismo no se le concedió la oportunidad de ser oído a pesar de
+los términos de su memorial ya citado. El proyecto ha sido aprobado
+por unanimidad aunque no toma en cosideración la situación del
+partido Nacionalista.
+Esta actuación del Senado es simultánea con la carta del Secretario
+Ejecutivo comunicándonos la suspensión de la inscripción de las nuevas
+candidaturas que hemos radicado en su secretaría, pretextando la espera
+de una nueva opinión del procurador general que le ilustre sobre el
+derecho a inscribir candidaturas por convención, cuando por derecho ya
+reconocido, tiene el partido Nacionalista radicadas candidaturas
+generales.
+Vemos en todo eso maquinaciones del gobernador interventor para
+impedir que el Nacionalismo pueda concurrrir a las urnas. Se repite lo
+que sucedió en el año 1924. Nos es duro creer que ese cuerpo sin
+distinción de partidos haya entrado en una inteligencia antipatriótica
+con el poder norteamericano, para evitar que se manifieste
+pacíficamente en las justas electorales la volutand nacionalista del país.
+Ante la gravedad de la situación que esa política pudiera traer si se
+comprueba ser cierta, es nuestro deber reclamar de nuevo, la igualdad
+ante la ley electoral, y, al efecto, solicitamos que se nos conceda ser
+oídos.
+
+Con toda consideración
+P. ALBIZU CAMPOS
+Presidente del Partido Nacionalista
+
+Albizu Campos es aclamado al hacer su
+entrada al teatro del pueblo de Lares el
+23 de Septiembre de 1931.
+
+EL NACIONALISMO Y LA SITUACION ELECTORAL
+
+Señores D. Luis Sánchez Morales y
+D. Manuel F. Rossy, presidentes del
+Senado y la Cámara respectivamente.
+
+Señores:
+
+En cumplimiento del mandato que me ha impuesto por resolución
+la Junta Nacional del Partido Nacionalista de Puerto Rico, tengo el
+honor de dirigiros esta comunicación para reclamar la igualdad ante la
+ley electoral a que tiene derecho nuestra organización patriótica.
+
+El nacionalismo se ha abstenido sistemáticamente de entrar en la
+agría controversia sobre la ley electoral porque esa lucha fraticida
+beneficia exclusivamente al interventor norteamericano que la
+contempla sonriente y con beneplácito. El nacionalismo transigirá
+siempre con sus paisanos portorriqueños antes que favorecer en forma
+alguna, la política de la intervención extranjera yanqui que pretende
+aniquilar a Puerto Rico.
+
+No creemos en las tácticas de los partidos con quedolorosamente
+tenemos que enfrentarnos, porque esas tácticas las condena la propia
+experiencia de esas mismas agrupaciones, que han agotado su paciencia
+en una diplomacia estéril para que el Gobierno de Estados Unidos
+respete nuestra soberanía.
+
+Nuestro país está en ruinas. Ha perdido en treintidós años más del
+setenta por ciento de su riqueza que ha pasado a los intereses yanquis
+en virtud del monopolio que tienen de nuestro mercado, que nos obliga
+a comprarle lo suyo en las condiciones que quieran imponernos. Y a
+venderles lo nuestro en los términos que le sean gratos.
+
+Llamamos la atención al hecho de que el alto poder adquisitivo que
+acusa Puerto Rico y que le permite ocupar el puesto del quinto
+mercado para Estados Unidos en el mundo, y el primero en la América
+Latina, no se funda en entradas reales, sino en el desplazamiento de
+nuestros agricultores, industriales y comerciantes, que están comprando

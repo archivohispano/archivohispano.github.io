@@ -1,0 +1,623 @@
+---
+layout: text
+lang: es
+title: "Conferencia: La Revolución — Número 2"
+author: pedro-albizu-campos
+author_name: Pedro Albizu Campos
+date: 1924-01-01
+source: Obras Escogidas 1923-1936
+source_detail: full citation
+country: puerto-rico
+permalink: /es/textos/pedro-albizu-campos/conferencia-revolucion-numero-2
+english_version: /en/texts/pedro-albizu-campos/conferencia-revolucion-numero-2
+collections:
+  - nacionalismo-puertorriqueno
+  - independencia-puerto-rico
+  - discursos
+---
+
+IMPORTANTE ACTO POLITICO
+
+Declaración Política del Lcdo. Albizu Campos
+
+Recientemente llevóse a efecto en la ciudad de Ponce una reunión
+política donde se hallaban presentes los líderes de la Unión y
+prestigiosas personas del partido de la mayoría. Entre los concurrentes a
+dicha reunión estaban los Sres. Guillermo Schuck, Vicente Usera,
+Guillermo Vives Valdivieso, Sr. Ohms, Mr. McJones, Lcdo. Brunet y
+otros significados elementos dentro del partido.
+Ante una inmensa concurrencia, en la que tenían representación el
+capital, la inteligencia y el trabajo, el culto joven abogado Pedro Albizu
+Campos, licenciado en filosofía y letras, licenciado en derecho de la
+Universidad de Harvard, Massachusetts, después de haber estudiado con
+gran detención las actuaciones de los partidos en el país, determinó
+hacer su ingreso formal en las filas del partido Unión de Puerto Rico. El
+Sr. Cordero Matos, significado político de Ponce, hizo la presentación
+del Lcdo. Albizu Campos, quien empezó su discurso que más bien
+pudiera ser considerado como conferencia ateneísta, y cuyos puntos
+más salientes fueron más o menos como a continuación sigue:
+"Afirmó el Sr. Albizu Campos en forma reposada y con absoluto
+dominio de la materia que iba a tratar, que fué conocido nacionalista en
+Estados Unidos en donde celebró varias conferencias sobre las pequeñas
+nacionalidades y el imperialismo de los grandes poderes. Que el partido
+republicano puertorriqueño se agitaría siempre dentro de una minoría,
+por ser un partido centralista y querer recibir su poder Ejecutivo de
+Washington sin apoyarse en el regionalismo que tan necesario es para
+fundar un "estado" de la federación.
+Al llegar a este punto, el orador hizo distinguir con habilidad,
+elocuencia y claridad, la confederación de la federación, explicando que
+confederación no es otra cosa que verdaderos estados soberanos ligados
+casi siempre solo para la defensa contra extraños y pone como ejemplo
+los Estados Unidos antes de la Constitución vigente, y federación es el
+estado en la unidad central. Que los llamados estados carecen de
+soberanía; el soberano es Estados Unidos, y no ningún estado por si o
+en agregado con los demás, cosa que no podría hacer aunque lo
+pretendiese y pone de ejemplo Estados Unidos. El orador explica las
+consecuencias diciendo, que la federación exige, como unidad que es,
+homogeneidad en sus partes integrantes y por eso no se ha admitido a la
+federación a ninguna comunidad, en la cual no haya estado gobernando
+el elemento anglo-sajón o anglocelta que han dado forma a la nación, y
+a menos que la ascendencia de dichos elementos no haya sido probable.
+Que la ascendencia de dichos grupos entre nosotros es imposible por la
+densidad de nuestra población y por poseer Puerto Rico una civilización
+más antigua que Estados Unidos. Dijo el orador que era esa la tradición
+de aquel pueblo y la base de su expansión y que no podía pedírsele que
+trastrocase el fundamento de su existencia; que para Puerto Rico sería
+
+como ha sido para cada "estado", la extinción de su personalidad,
+entendiéndose por ésta, lo distintivo en un pueblo en la comunidad de
+estados soberanos en el mundo.
+
+El joven letrado disertó luego acerca del ciudadano en su aspecto
+confederativo y dijo que, siendo cada estado soberano de hecho y de
+derecho, es el único soberano sobre sus ciudadanos y que siendo la
+federación el único soberano, es el soberano de cada ciudadano, y por
+supuesto, lo ordena de acuerdo con su interpretación de las necesidades
+del soberano; y puede movilizar a los ciudadanos dentro de cada
+"estado", para destruir a éste si lo creyese necesario a la única soberanía
+poniendo como ejemplo la guerra civil en Estados Unidos desde
+1861-65.
+
+Refiriéndose al partido socialista, el joven orador dijo, que dicho
+partido sólo se contrae a un programa económico, siéndole indiferente
+la personalidad de Puerto Rico, tan necesario para el desarrollo de
+cualquier programa económico que quiera llevarse a la práctica. Que tal
+partido postula la lucha de clases, dividiendo a nuestro pueblo que
+requiere para su salvación un esfuerzo conjunto. Hizo así mismo alusión
+al naciente Partido Nacionalista de Puerto Rico y dijo que
+lastimosamente divide las fuerzas regionales. Habló también sobre el Bill
+Jones llamándole el mito de los derechos en él contenidos y afirmó
+categóricamente y dentro de una lógica irrebatible, que el derecho es
+derecho, cuando su sanción "última" está en la comunidad que lo
+ejerce. El Bill Jones, dijo el orador a la concurrencia, ha alargado el
+procedimiento en la aprobación de las leyes; pero su fondo es idéntico
+al del Bill Foraker. Toda la Legislación, por más beneficiosa que sea al
+país tropieza finalmente con el "veto absoluto" del Presidente de
+Estados Unidos. Los agentes del ejecutivo de la Nación en Puerto Rico,
+que sean incapacitados, dejan ver fácilmente esa verdad y por eso no son
+tan perjudiciales como un agente culto e inteligente, que puede
+disimular la verdadera fuente del poder, y de aquí la imperiosa
+necesidad de laborar a fin de que Puerto Rico tenga, dentro del derecho
+que le asiste, un gobierno responsable a él nada más y elegido por él y
+que la sanción última de todas sus leyes esté en nuestro pueblo: y de
+aquí que no sea la remoción de un agente del poder ejecutivo de Estados
+Unidos y de la política que por su instrucción desarrolla, porque eso
+sería dejar los derechos sagrados de nuestro pueblo a merced de
+individuos en la Presidencia: lo importante está en luchar
+tesoneramente con fe y patriotismo por la derogación de la Carta
+Orgánica vigente, sustituyéndola por una Constitución que establezca
+un gobierno responsable sólo a nuestro pueblo. Por último, el joven
+orador aconsejó la necesidad de abandonar, de desterrar la mala
+costumbre de la súplica y petición; que Puerto Rico debe exigir lo que
+de derecho le corresponda, le pertenece y entonces y sólo entonces,
+merecerá el respeto y la admiración de los pueblos que han luchado por
+perfeccionar su personalidad, como ha hecho el mismo pueblo de
+Estados Unidos."
+
+"EL ESTADO FEDERAL PARA P.R. NO ES ACEPTABLE PORQUE
+DESTRUIRA NUESTRA PERSONALIDAD COLECTIVA"
+
+No debemos ni podemos prescindir de los socialistas agrega
+el Lcdo. Albizu Campos
+
+Nuestro corresponsal en Ponce ha celebrado la siguiente, importante
+entrevista con el Lcdo. Pedro Albizu Campos.
+Estos ponceños merecen nuestra sincera felicitación por su noble
+esfuerzo.
+Debemos distinguir la colectividad política de los partidos políticos.
+La colectividad política es necesariamente indivisible. Contiene la base
+indiscutible de la patria. Requiere consenso unánime. No puede
+discutirse sin poner en peligro la existencia del país. Los partidos
+políticos se limitan a ofrecer medios para mantener y engrandecer las
+bases sentadas para la existencia nacional.
+La república o la monarquía, ser dependiente o independiente, son
+formas de existencia política, que no pueden atacarse donde existen sin
+poner en peligro la seguridad pública y sin paralizar todas las
+actividades, exceptuando las políticas, con el consiguiente retroceso o
+estancamiento en los demás órdenes.
+En nuestro país no hay consenso respecto a la base de su vida como
+entidad política, y de ahí el por qué consumimos nuestros mejores
+esfuerzos en lo que llamamos política. Cada partido ofrece una base
+que cree indiscutible y fundamental suficiente para levantar sobre él
+una gran patria. Va cada uno al fondo y es verdadero adversario de los
+demás. No debemos olvidar este hecho si queremos llegar a un
+entendido respecto a nuestro status. Para ilustrar el problema,
+fijémonos que en Estados Unidos existe unanimidad práctica respecto a
+la soberanía nacional y respecto a la forma representativa de gobierno.
+Los grandes partidos difieren en procedimiento, a excepción del
+socialista que toca de nuevo el fondo, y por eso lo tratan como
+adversario peligroso.
+No es posible, sin embargo, un solo partido político.
+Todos los puertorriqueños debemos unirnos para exigir el status que
+creamos digno.
+Sería injusto a la par que imprudente excluir a los socialistas. Ellos
+representan una actitud que va increscendo y debe reconocerse este
+factor de la opinión para poderle exigir responsabilidad cuando les
+toque administrar los asuntos públicos.
+Para vencer en las elecciones venideras el Partido unionista no
+necesita de entendidos con ningún partido.
+Nunca llegaremos a merecer el respeto de un pueblo libre como el
+americano si seguimos PIDIENDO qué debe hacerse con nosotros.
+Debemos buscar los medios legales, la sanción del Congreso si fuere
+necesario para reunirnos en Congreso Constituyente, que redacte la
+constitución que crea digna para nuestro pueblo. Tendremos poderes y
+seremos responsables. De esa manera terminará toda la discusión
+respecto a nuestro status.
+
+Ningún régimen colonial es aceptable en un país como el nuestro, de
+una civilización más antigua que las de sus gobernantes y de una cultura
+por lo menos igual a la de éstos.
+La fórmula Estado Federal no es aceptable porque destruiría nuestra
+personalidad colectiva. Se ha hablado mucho de la personalidad y de la
+soberanía de los llamados Estados de la Unión. Eso lo tenían cuando
+estaban CONFEDERADOS y lo perdieron cuando se FEDERARON al
+adoptarse la constitución vigente en 1787. En el sentido político, en
+Estados Unidos, hay una personalidad: la americana y un soberano:
+Estados Unidos.
+No creo posible el Estado Federal. La unidad nacional requiere
+homogeneidad en el elemento que debe gobernar en cada "estado".
+Este elemento tiene que ser anglo sajón o anglo-celta, por ser el que ha
+dado forma a la nación. No se ha admitido a la unión a ninguna
+comunidad hasta no haber ganado este elemento ascendencia definitiva
+En Puerto Rico eso es imposible por nuestro aislamiento geográfico, por
+la densidad de población, por tener una cultura tan o más alta como la
+norteamericana, y por ser un pueblo que defiende con tenacidad su
+historia y su civilización.
+No sé de ningún "estado" Federal ultramarino en Estados Unidos.
+No. El partido socialista debe desarmársele con concesiones
+económicas. La gran mayoría desconoce las teorías políticas filosóficas
+y religiosas que inspiraron el socialismo. Lo que quieren es bienestar
+material, y oportunidad para educarse, a lo cual tiene perfecto derecho
+el que trabaja.
+Creo que el partido republicano acabará de fracasar a menos que no
+se una a otro partido si el gobierno de Washington sigue insistiendo en
+que este partido deba existir por medio del sufragio en lugar de querer
+depender del poder central. Me parece peligrosa para el mismo la
+coalición con los socialistas debido a la oposición determinada que les
+hace a éstos el gobierno federal.
+El poder del partido socialista depende del malestar económico,
+ataquemos éste y aquél desaparecerá. Mientras dure como partido y
+reconocido como tal tiene derecho participar en la Administración
+donde se le autorice el electorado, sólo entonces se le podrá hacer
+responsable.
+
+PEDRO ALBIZU CAMPOS
+Ponce, P.R., mayo 31 de 1923.
+
+PEDRO ALBIZU CAMPOS
+LA RESOLUCION CONJUNTA NUMERO 2
+A MIS COMPATRIOTAS
+
+En virtud de nuestros derechos constitucionales, el Pueblo de Puerto
+Rico puede ahora mismo exigir ingreso en la Unión Americana como
+"estado" federal. El procedimiento legal a seguir sin la intervención del
+Congreso seria el siguiente: reunirnos en convención constituyente para
+redactar la constitución de Puerto Rico, aprobar dicha constitución,
+elegir los senadores y representantes que deberán representar a Puerto
+Rico en el Congreso Americano, y exigir nuestra admisión como
+"estado". El Congreso no podría negarse. Nuestro derecho dentro de la
+Constitución Federal es indiscutible.
+El "estado" federal sería, sin embargo, el suicidio para Puerto Rico y
+un grave inconveniente para Estados Unidos. Luego, es de interés
+común para ambas partes que Puerto Rico se constituya como entidad
+internacional. La constitución para ese fin puede redactarla ahora una
+convención constituyente puertorriqueña que el Congreso Americano
+tendría que reconocer en principio por ser indiscutible nuestro derecho
+a tener un gobierno responsable sólo a nosotros.
+Nuestra actual legislatura puede facilitar el procedimiento
+declarándose convención constituyente al reunirse en su próxima sesión
+ordinaria. Por supuesto sería preferible una convención ad hoc.
+El deber nos exige estudio, deliberación, y resolución inmediata de
+nuestro status definitivo como pueblo. Eso podemos hacerlo nosotros
+nada más, porque somos los únicos que conocemos nuestros problemas
+y los únicos con el deber de resolverlos. No es honroso transferir la
+responsabilidad a otros. No debemos retardar más la solución si no
+queremos perjudicar irreparablemente a nuestra patria.
+Esta es humilde contribución al estudio preliminar; que continúe
+éste, venga la discusión y sea la resolución inmediata.
+EL AUTOR
+
+CONFERENCIA
+
+Sr. Presidente,
+
+Señores:
+
+Es un privilegio tomar parte en esta fiesta, Día de la Raza, para
+celebrar el tercer aniversario de la fundación de La Asociación
+Nacionalista de Ponce y su Distrito, y el aniversario del descubrimiento
+de América. Este es de universal significación pero aquél no carece de
+trascendencia, siendo fundamental en nuestra vida colectiva cuya
+existencia tiene importancia internacional.
+El descubrimiento del Nuevo Mundo fue la comprobación
+
+expérimental de una teoría. La duda respecto a la forma esférica de
+nuestro planeta quedó sustituida por el hecho comprobado. Resultó la
+certeza y las deducciones matemáticas hallaron demostración en la
+nueva ciencia de la navegación. Sobre el hombre de la idea que lo
+mantenía pegado al supuesto plano terrestre, se vió recorriendo sobre la
+tierra el infinito espacio y empezó a comprender la maravillosa
+intra-relación del cosmos y formuló matemáticamente las nociones más
+fundamentales del tiempo y del espacio. Se han sucedido en orden
+rápido y obediente a la lógica, las matemáticas, la navegación terrestre,
+la astronomía, o sea la navegación en el infinito, la física, la química, la
+biología y psicología, que es el regreso de la mente así misma, por ser el
+hombre el microcosmos.
+La certeza de la unidad del universo halló paralelo perfecto en la
+certeza de la unidad humana, verdad, que a pesar de ser evidente, a ella
+no se consagran muchos hombres.
+
+Cupo en el orden providencial de las cosas, que fuesen los
+antepasados de este pueblo los que diesen la luz al mundo. En el orden
+lógico no podia ser de otra manera por ser greco-latina la única
+civilización que hay en occidente. Fieles a su misión no se conformaron
+con ver claro la esfera terrestre, la unidad hermosa del universo y la
+unidad humana y se consagraron a ésta y con la raza indígena y la raza
+africana, reunieron a la humanidad integrándola en la Raza de la cual
+formamos parte, única por constitución, a ser fiel intérprete de la vida y
+de los fines de existencia.
+
+Los anglo sajones siguieron las huellas de nuestros padres y se
+establecieron en latitudes parecidas a las que habitaban. Pero ellos no
+han aprendido la significación humana del descubrimiento, que es el
+descubrimiento de la humanidad por sí misma y han exterminado a la
+raza indígena, y se mantienen separados de la raza africana, importada
+para explotar el terreno conquistado, dentro de un purismo de raza,
+falso por ser contrario a la unidad humana. Han traicionado la misión
+providencial, y lo que llaman un problema de raza es más fundamental,
+es un problema de civilización, la cual revelan los hombres y pueblos
+cultos por la armoniosa convivencia con sus semejantes.
+
+Se ven frente a frente a través de la frontera que traza el Río Grande
+y las Antillas estos dos pueblos. He ahí la importancia de la fundación
+de esta Asociación que defiende la integridad de nuestra personalidad
+colectiva. Somos de la vanguardia, no defenderla es traicionarla y caería
+sobre nuestra sucesión la ignominia de no haber cumplido con nuestro
+deber en la historia.
+
+He venido, señores, a presentaros un estudio jurídico-político de la
+Resolución Conjunta No. 2, que acaba de aprobar nuestra legislatura.
+Ella ha realizado labor patriótica al impartir aprobación unánime a
+dicha resolución, uniéndose así la voluntad de todos los grupos
+representativos de la opinión pública. Es el primer esfuerzo conjunto
+que se hace para resolver definitivamente el status de nuestra
+personalidad colectiva, que es la base de la existencia colectiva. A la
+solución de éste, nuestro problema más fundamental se consagrarán
+nuestros conciudadanos con perjuicio sin embargo, de las demás
+
+actividades de la inteligencia. He ahí por qué ha pasado a manos
+extranjeras o no residentes el control de nuestra vida, económica, y la
+razón que explique nuestro estancamiento o retroceso en las lides del
+pensamiento.
+
+El status definitivo de Puerto Rico debe
+resolverlo nuestra convención constituyente.
+
+Para restablecer una patria se requiere consenso unánime y éste se
+consigue solo por medio de la deliberación de un congreso
+constituyente representativo de todas las fuerzas vivas del país. En lugar
+de reunirse para el estudio y resolución de las cuestiones vitales,
+nuestros hombres se han apartado cada día mas debido a la lucha
+partidarista, que ha hecho estéril el esfuerzo común durante los últimos
+veinticinco años. La legalidad del procedimiento es indiscutible bajo el
+Acta Foraker lo mismo que bajo el Acta Jones, porque el derecho del
+pueblo a reunirse pacíficamente para exigir un gobierno digno de sí
+mismo y consonante con sus legítimas aspiraciones es inalienable y es
+principio que informa las instituciones políticas americanas. Se
+demostraría entonces capacidad para gobernarnos y merecería nuestra
+conducta el respeto de los hombres libres.
+Se ha argüido que aprobado un proyecto de ley por el Congreso y
+aceptado por nuestro pueblo en virtud de un plebiscito se alcanzarían
+los fines que persigue un congreso constituyente: un gobierno digno
+implantado con el consentimiento de los gobernados. En primer lugar,
+los hombres que forman el Congreso Nacional no pueden
+compenetrarse de nuestro punto de vista aunque fuere posible un
+perfecto conocimiento de nuestra historia y de nuestras instituciones y
+segundo, el plebiscito es índole de la influencia del poder y no del
+consentimiento consciente. Luego la necesidad de la deliberación de
+una convención constituyente se impone. Si hubiere alguien tan
+temeroso en el ejercicio de sus derechos, para tranquilizar su conciencia
+podría exigirse del Congreso Nacional la aprobación de una ley que
+provea los medios para que nuestro pueblo pueda elegir los delegados a
+la convención que redacte la constitución de Puerto Rico. El Congreso
+Nacional jamás se negaría a adoptar un proyecto de ley de esa índole,
+porque el procedimiento sugerido emana de la Constitución
+norteamericana. En prueba de ello basta recordar la serie de "enabling
+acts". Además el derecho de decidir cual ha de ser el status de Puerto
+Rico radica exclusivamente en el pueblo de Puerto Rico. Esta tesis la
+defendió el conferencista en su interview con el El Mundo en mayo 31
+de este año. Aunque solicitar del Congreso y del Presidente de E.E.U.U.
+que definan su propósito respecto al status definitivo de Puerto Rico,
+según provee la Resolución Conjunta No. 2, no altera el derecho de
+nuestro pueblo a definir su status, sin embargo, cualquier declaración
+concreta por dichos poderes serviría para ahogar la opinión pública en
+nuestro país que fuese contraria a lo expuesto por las autoridades
+mencionadas, y ese efecto sería en menoscabo de nuestro derecho y
+subversivo de las instituciones americanas.
+
+(a) La ciudadanía americana no es contraria a la completa soberanía de
+Puerto Rico.
+(b) Rige la Constitución Americana en Puerto Rico desde que se firmó
+el tratado de París.
+
+La Resolución Conjunta No. 2 está en armonía con la fórmula que
+define nuestro status colectivo: Preservar la relación necesaria entre
+Puerto Rico y Estados Unidos con el maximum de poder en el Pueblo
+de Puerto Rico. Dentro de ella caben todas las soluciones advocadas
+hasta ahora inclusive la independencia. La ciudadania americana hace
+permanente la relación armoniosa entre ambos pueblos y no es
+obstáculo a la completa soberanía de Puerto Rico. El Imperio Británico
+acaba de resolver el conflicto entre la soberanía local de sus dominios
+con la necesaria cohesión del imperio. La solución sorprendió al mundo,
+porque se funda en el reconocimiento de la soberanía local a pesar de la
+ciudadanía británica. Así el Canadá, Australia, Africa del Sur, Irlanda,
+han pasado a formar parte de la Sociedad de Naciones como iguales
+entre los pueblos libres del mundo, en virtud del reconocimiento más
+perfecto, que es el de la madre patria, Inglaterra. Eso ha pospuesto por
+algún tiempo considerable la temida desintegración del imperio, cuyo
+poder y prestigio se mantiene hoy por medio de los principios
+democráticos de la igualdad y de la cooperación voluntaria.
+
+Debemos fijarnos que se concedió a los portorriqueños la
+ciudadanía americana en víspera de una crisis internacional que ha
+podido poner en peligro la existencia nacional y que por lo tanto, era
+necesario establecer el principio legal para exigir la cooperación de
+nuestro pueblo, que tenía que ser a base de conciudadanos y de
+igualdad. Pero el Acta Jones, mientras aseguraba de esa manera la
+solidaridad entre ambos pueblos, dejó libre al pueblo de Puerto Rico
+para obtener su soberanía y rechazó la incorporación. La política
+trazada en 1898 rige todavía.
+Expliquemos.
+
+Muchos de nuestros compatriotas han pasado veinticinco años
+solicitando que se haga extensiva a Puerto Rico la Constitución
+Americana, por no haberse fijado que ella quedó establecida en Puerto
+Rico desde que se firmó el tratado de París. La guerra
+hispano-americana, la conquista de Puerto Rico, y todos los actos de
+gobierno realizados en Puerto Rico hasta ahora son actos
+constitucionales y que se han podido realizar porque han sido
+constitucionales. La declaración de los tribunales americanos que la
+constitución no sigue a la bandera se refiere exclusivamente al lado civil
+de la constitución. La guerra, la conquista con todas sus consecuencias
+son actos constitucionales, y es porque el famoso instrumento de
+gobierno tiene dos caras, una civil y la otra militar, tan constitucional
+una como la otra. En lo interno, el Presidente es el único poder que
+determina cuando debe suspenderse los derechos civiles, para establecer
+un régimen militar que restablezca la seguridad pública. En lo externo,
+el Presidente y el Congreso deben concurrir para declarar el estado de
+guerra, con todas sus consecuencias, conquista, etc., entre la nación y
+
+sus enemigos. En Puerto Rico rige hasta ahora el aspecto militar de la
+Constitución. Sin embargo, el estado de guerra y su consecuente la
+conquista no implican que ha cesado la relación legal entre las partes,
+sólo que surgen nuevos derechos y obligaciones entre ellas. La
+absorción de un pueblo sin su consentimiento, es la humillación más
+grande a la cual se le puede someter, pero ella se funda en la ficción del
+derecho internacional que establece el consentimiento de la comunidad
+absorbida. El régimen militar continúa y no se ha declarado la
+absorción. Fieles a su constitución, los americanos no han podido hacer
+otra cosa que respetar nuestra personalidad colectiva. Gobierna el
+Presidente en Puerto Rico en su carácter de militar, jefe de la armada y
+del ejército, pero sujeto a reglamentos establecidos por el Congreso y
+aceptados por él, a los cuales se les ha dado el sonoro nombre de cartas
+orgánicas. En virtud de estos reglamentos, el Presidente como es
+responsable de la administración en Puerto Rico, tiene control absoluto
+de ella, y como está obligado a mantener el statu quo, tiene el veto
+absoluto de todos nuestros proyectos de ley. Por supuesto, el Congreso,
+siempre se ha retenido el derecho de anular todas y cada una de
+nuestras leyes, aprobadas por el Presidente o su representante en Puerto
+Rico, el gobernador, lo que es lo mismo. Y como dentro de todo
+régimen militar, no emanan derechos de los gobernados, lógicamente
+carecen de responsabilidad final, y por eso, nuestros tribunales carecen
+de jurisdicción definitiva y de ahí que el verdadero tribunal supremo de
+Puerto Rico esté situado en Boston y en Washington. Este sistema,
+como toda ocupación militar, es duro, pero mantiene nuestra
+personalidad separada, y en respeto a ella se ha denegado la
+incorporación. La política nacional nos ha ofrecido la oportunidad de
+definir nuestras aspiraciones colectivas libremente, pero aparentemente
+no nos hemos dado cuenta de este hecho. Resalta la anomalía de pedir
+al Congreso y al Presidente una definición de nuestro status, cuando eso
+nos atañe a nosotros exclusivamente.
+
+Pero el gobierno nacional tiene razones adicionales para no desviarse
+de su política. La incorporación es un paso al "estado" federal. Por vez
+primera entraría a formar parte de la federación, una comunidad cuya
+raza, tradición, e instituciones, son fundamentalmente diferentes de las
+que predominan en cada "estado". La Nación ha sido gobernada y es
+gobernada por los descendientes de angloceltas o de anglo-sajones, que
+son los que le han dado forma. No se ha admitido a la unión a ningún
+"estado" a menos que en él no haya adquirido ascendencia definitiva
+estos elementos étnicos. En Puerto Rico eso es imposible, por nuestro
+aislamiento geográfico, por la densidad de nuestra población que no
+podrá ser sustituida, por la diferencia de raza e idioma, porque
+poseemos una cultura por lo menos igual a la de nuestros gobernantes,
+siendo herederos directos de la única civilización que hay en occidente,
+y porque nuestro pueblo se resiste tenazmente a perder su personalidad
+histórica. Esas serían consecuencias inevitables de la estadidad, porque
+los "estados" de la federación carecen de personalidad y de soberanía
+en el sentido internacional. Poseían eso durante la Confederación y lo
+perdieron dentro de la federación al adoptar la constitución vigente. Si
+
+hubo alguna vez duda respecto a estos extremos quedó desvanecida con
+los resultados de la guerra civil (1861-1865). En la nación hay un
+soberano, Estados Unidos y una personalidad, la americana.
+Además, la política de expansión de la Nación es hacia el Sur. Sus
+relaciones internacionales con el Canadá han sido a base de igualdad y
+de cooperación, pero con las naciones al sur del Río Grande, ha sido a
+base de penetración y de conquista. Esa política va dirigida contra
+pueblos hermanos nuestros en la raza, en cultura, y de común historia.
+Nadie puede esperar de senadores portorriqueños sanción de los actos
+realizados en México, Cuba, Haití, Santo Domingo, la América Central.
+En el senado Nacional seríamos un obstáculo, los estadistas americanos
+ven eso claro. Por eso se han hecho sordos a la petición de "estado"
+federal. Concederla sería destruir la homogeneidad de los elementos
+dirigentes, base de su expansión y de su grandeza imperial.
+
+La cuestión agraria puede resolverse ahora.
+
+Son obvios los derechos de nuestro pueblo a tener un gobernador
+electivo, y completa autonomía para legislar en los asuntos locales. La
+Resolución Conjunta No. 2, los solicita en términos para clara
+interpretación. Nos parece innecesario la solicitud del derecho de
+legislar sobre el importante problema de la cuestión agraria. Tenemos
+poderes suficientes para ello. Hubiera servido y servirá de piedra de
+toque legislación sobre ese extremo para determinar la intención del
+régimen actual.
+
+La extención de legislación Federal
+a Puerto Rico es un retroceso.
+
+Pedir la extensión de legislación federal a Puerto Rico es un paso
+hacia atrás por más beneficiosa que parezca dicha legislación. Es una
+demostración de incapacidad para resolver nuestros problemas, aunque
+sea evidente que esos egresos para Puerto Rico, salen de aquí por la
+exclusiva que goza el comercio americano en nuestro país, en virtud del
+arancel.
+
+Necesidad de unidad judicial. (a) Debe
+constituirse un tribunal supremo.
+Es innecesaria la Corte Federal para
+Puerto Rico
+
+Se exige en la Resolución unidad legislativa y unidad ejecutiva al
+colocar los nombramientos federales en manos del gobernador electivo,
+pero se hace omisión de lo judicial. Debe crearse un verdadero tribunal
+supremo nombrado por el gobernador electivo de Puerto Rico con el
+consentimiento de nuestro senado, en lugar del tribunal de apelación
+
+intermedia que hoy lleva ese nombre, con jurisdicción para resolver
+definitivamente, todas las cuestiones legales, a excepción de las que
+envuelvan la interpretación de la Constitución y del derecho
+internacional público. Esta limitación se impone por la necesaria
+uniformidad de interpretación, que tiene que hacer el Tribunal
+Supremo de Estados Unidos mientras la Nación sea soberana en Puerto
+Rico, y por lo tanto responsable ante el mundo en todo lo que afecte
+los derechos de otras naciones. La constitución de un tribunal supremo
+se hace imprescindible por las razones siguientes: En los casos más
+importantes basta la amenaza de una apelación a Boston por la parte
+que cuente con medios para que la otra que carece de ellos tenga que
+allanarse para no sostener un litigio en apelación ante la Corte de
+Circuito o ante el Tribunal Supremo de Estados Unidos; además el
+hecho que los tribunales que pueden resolver definitivamente están sitos
+en Estados Unidos, ha forzado el sistema de decisiones fundándose mas
+en precedentes que en principios, que es el sistema anglo americano, del
+cual luchan por liberar a sus respectivos países, los grandes juristas
+continentales e ingleses. Para Puerto Rico esto constituye un retroceso
+jurídico costoso para la ciencia del derecho.
+
+Como todos nuestros tribunales son federales si atendemos a la fuente
+de su jurisdicción, resulta innecesaria la Corte Federal de Puerto Rico.
+Se mantiene actualmente una jurisdicción dual en perjuicio de los
+intereses colectivos por la complicación que trae en la administración de
+justicia. Además, este tribunal naturalmente sigue como ley los
+precedentes de las cortes federales del continente, cuando está
+resolviendo situaciones creadas en Puerto Rico, y aunque adopta como
+ley los precedentes del actual tribunal supremo, de Puerto Rico en casos
+que envuelven la interpretación de nuestras leyes locales, pero como por
+necesidad este ha adoptado el sistema de decisión por precedentes, en
+gran parte tomados de los tribunales continentales con un sistema legal
+diferente al nuestro, puede verse el daño que se ha hecho a la ciencia del
+derecho en Puerto Rico que, cuando los juristas anglo-americanos
+luchan por abolir el sistema de precedentes que ha diluído y
+confundido los principios y quieren adoptar el sistema de interpretación
+continental europeo, que era el nuestro, nosotros estamos tratando de
+adoptar el sistema angloamericano. Es necesaria legislación prohibiendo
+a los tribunales que sigan precedentes como ley.
+
+Os invito señores al sereno estudio de nuestros problemas
+fundamentales. Para resolverlos se requiere la cooperación de hombres y
+mujeres inteligentes, reunidos en un ambiente que inspire
+responsabilidad de lo que se dice. No olvidemos que la cohesión de las
+fuerzas regionales es imprescindible para constituir una patria.
+
+PEDRO ALBIZU CAMPOS
+Ponce, Puerto Rico, Día de la Raza, 12 de octubre, 1923.
+
+ENTREVISTA CON EL LCDO. PEDRO ALBIZU CAMPOS
+El manifiesto de los señores Barceló y Tous Soto es impresionante,
+y por esa razón requiere un análisis frío y ecuánime.
+
+Es motivo de satisfacción para el país la proposición de llegar a un
+entendido definitivo sobre la base política sobre la cual deba girar la
+política del país. Si es esta el gobierno propio, como se dice en el
+Manifiesto, con seguridad tendrá acogida entre todos los elementos
+liberales de Puerto Rico. Se impone un gobierno responsable sólo a
+nosotros. Esta es una verdad que hemos venido discutiendo hace
+tiempo, pero todavía no se había llegado a un acuerdo entre las
+personas con autoridad suficiente en el electorado. Parece increíble que
+hasta ahora no haya habido ese consensus unánime. El obstáculo mayor
+hasta ahora para llegar a ese extremo fue la política de
+incondicionalismo intransigente del partido Republicano que, abogando
+por la estadidad, rehusaba predicarle a su pueblo que exigiese los
+derechos que tiene de gobernarse por sí mismo. Esta política acusaba
+falta de comprensión de lo que es la estadidad, que es sólo el gobierno
+por y con el consentimiento de los gobernados. Y aunque la estadidad
+limitase la personalidad de nuestro país en extremos esenciales para su
+existencia como pueblo definido en el mundo civilizado, requería para
+llegar a ello que nuestro pueblo se acostumbrase a ejercer todos los
+derechos en Puerto Rico. Ha quedado relegada a lo remoto
+inconcebible la idea de la estadidad, claras y terminantes han sido las
+declaraciones oficiales como las del Sr. Tous Soto. Dentro del programa
+propuesto en nada se limita el desarrollo completo de nuestra
+personalidad política, pudiendo llegar dentro del mismo a la completa
+soberanía, a la cual tiene derecho indiscutible. No son vacías las
+declaraciones respecto a la preservación de nuestro idioma, de nuestra
+cultura, de nuestros intereses materiales, y de nuestra civilización
+distintiva. El Sr. Tous Soto ha hecho un gran sacrificio para llegar a este
+convencimiento que franca y honradamente pone ante sus
+compatriotas, despreocupado de los resultados personales, favorables o
+desfavorables para él. Admiramos el gesto patriótico.
+
+Debemos distinguir la constitución indiscutible del país de los
+medios para realizar lo que determine esa constitución. Tengo
+entendido que nuestra futura constitución establece un gobierno
+responsable a nosotros en ciertos extremos importantes. Para desarrollar
+las aspiraciones que entraña esa Constitución no se requiere la
+desapreciación de ninguno de los partidos existentes. Y esto sería
+conveniente porque entonces podría haber mayor armonía entre todos.
+Me parece claro que la proposición de los Sres. Tous Soto y Barceló que
+el Partido Unionista y Republicano lleguen a un entendido partidista
+entre sí, o se disuelvan para constituir un nuevo partido, no es realizable
+y está fuera de ambiente en Puerto Rico. Temo que el Sr. Tous Soto se
+
+encuentra sólo dentro de su partido en ese importante extremo. Su
+Partido y el Partido Socialista, por haber sido hasta ahora aliados de la
+adversidad sienten una afinidad entre sí de tal naturaleza que los aleja
+como grupo del Partido Unionista. El efecto inmediato de las
+declaraciones hechas en el Manifiesto será precipitar el Ligao General
+entre los republicanos y socialistas, a pesar de la hostilidad oficial con
+que tropezaría la coalición. No cabe duda que en Estados Unidos no
+hay cabida actualmente para tolerancias hacia partidos socialistas o a
+coaliciones con partidos socialistas. Al partido unionista entonces se le
+presenta una situación que requiere inmensa organización interna para
+prepararse para la lucha electoral que será sumamente apasionada.
+El momento es de espectación, especialmente para los socialistas
+que se han visto desautorizados como partido político en el manifiesto.
+Esto ha sido motivo de protestas entre todos los socialistas. Creemos
+sinceramente que hubiera surtido mejor efecto invitarlos a ellos también
+a un entendido general puesto que son un partido constituído en Puerto
+Rico representante de fuerzas vivas en el país.
+Nuestro deber es claro sea cual fuere el resultado de las asambleas
+que celebran los partidos militantes, estaremos dentro de los liberales
+defensores de todos y cada uno de los derechos de nuestro pueblo a
+gozar de su civilización íntegra
