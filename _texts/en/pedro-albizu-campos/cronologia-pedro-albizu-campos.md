@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1893-06-29
 source: Obras Escogidas 1923-1936 (Selected Works)
-source_detail: full citation needed
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, ed. J. Benjamín Torres (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/cronologia-pedro-albizu-campos
 spanish_version: /es/textos/pedro-albizu-campos/cronologia-pedro-albizu-campos
