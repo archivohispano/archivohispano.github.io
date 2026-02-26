@@ -2,18 +2,17 @@
 layout: text
 lang: en
 title: "Concept of Race"
-original_title: "Concepto de la Raza"
 author: pedro-albizu-campos
 author_name: "Pedro Albizu Campos"
 date: 1935-10-19
 source: "La Palabra"
-source_detail: "Selected Works, Vol. II. Originally published in La Palabra"
+source_detail: "Obras Escogidas, Vol. II. Originally published in La Palabra"
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/concept-of-race
 spanish_version: /es/textos/pedro-albizu-campos/concepto-de-la-raza
 collections:
-  - puerto-rican-independence
-  - puerto-rican-nationalism
+  - independencia-puerto-rico
+  - nacionalismo-puertorriqueno
 ---
 
 When the President of the Republic of La Plata, Don Hipólito Yrigoyen, instituted the Day of the Race, to which race was the high Argentine magistrate referring? Did his concept, with an antiquated preference, overlook the rest of the great ethnic mosaic of America? The Argentine president was referring to the Ibero-American race.

@@ -1,0 +1,120 @@
+---
+layout: text
+lang: es
+title: "Declaraciones del Jefe del Partido, Sr. Albizu Campos"
+author: pedro-albizu-campos
+author_name: Pedro Albizu Campos
+date: 1931-01-01
+source: Obras Escogidas 1923-1936
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Editorial Jelofe"
+country: puerto-rico
+permalink: /es/textos/pedro-albizu-campos/declaraciones-jefe-partido-sr-albizu-campos
+english_version: /en/texts/pedro-albizu-campos/declaraciones-jefe-partido-sr-albizu-campos
+collections:
+  - nacionalismo-puertorriqueno
+  - independencia-puerto-rico
+  - discursos
+---
+
+Albizu Campos coloca una ofrenda floral
+ante la tumba de uno de los héroes del
+Grito de Lares.
+
+Albizu Campos junto al Lcdo. Obdulio
+Bauzá, el Reverendo Padre Martínez
+Girau y el Alcalde, José Auretio Bernal.
+
+En el Ayuntamiento.
+
+EL MITIN NACIONALISTA CELEBRADO EN MAYAGUEZ
+
+DECLARACIONES DEL JEFE DEL PARTIDO,
+SR. ALBIZU CAMPOS
+
+Al ser anunciado el señor Albizu Campos la banda ejecutó "La
+Borinqueña" y se produjo una larga ovación. Tal era la ansiedad que en
+todos se manifestaba de oir la palabra del ilustre caudillo del
+nacionalismo. Analizó el sistema mediante el cual el régimen imperante
+efectúa la demolición de la sociedad portorriqueña con el fomento de
+hondas divisiones; primera: El fomento del trabajo de la mujer en
+competencia con los hombres para abaratar la mano de obra y traer la
+escisión de las familias, haciendo de las mujeres rivales de los hombres
+en el terreno económico y por ende desvinculando el hogar. Dijo que en
+sí la independencia de la mujer era loable si se estimulaba de buena fe,
+pero no si como en las actuales circunstancias se impone como un
+medio para desmoralizar una sociedad. Explicó como Estados Unidos e
+Inglaterra son los únicos países en que existe el feminismo militante
+como una salvaguardia de los derechos de la mujer que se ve lanzada a la
+actividad económica. Ya en Puerto Rico son muchas las familias donde
+son las mujeres las que procuran el sustento del hogar, inversión de
+papeles que es índice cierto de la ruina definitiva de un pueblo.
+Segunda División en materia financiera, que existe en los Estados
+Unidos pero que ha sido ahondada aquí por el mal llamado Partido
+Socialista. En los Estados Unidos un grupo pequeño o clase dirigente
+explota a la casi totalidad del país; no existe allí una sociedad o una
+nación en el recto sentido del vocablo sino un gran conglomerado que
+sufre la opresión de la exigua clase oligarca a quien no le preocupa ni la
+suerte ni mucho menos el engrandecimiento común de la masa del país.
+En Puerto Rico había al contrario una homogeneidad entre todos los
+componentes y un gran sentido social interesado en la recíproca ayuda
+para la perpetuidad y conservación de la nación, esto es un sentimiento
+raigal y unánime de patria. Por consiguiente, juxtaponer en una lucha
+de clases al hombre que nada posee contra el que tiene dos pesetas era
+
+imponer un extraño elemento de discordia que holgaba en nuestro
+medio. Tercero: La división fomentada entre la raza blanca y la africana
+que se patentiza comparando los sistemas usados por el invasor en Cuba
+y Puerto Rico respectivamente a la terminación de la guerra
+hispanoamericana. En nuestro país, donde había mayoría de blancos,
+impusieron como dirigente a la clase de color con el triunfo del Partido
+Republicano, cuyo jefe era el Dr. Barbosa. En Cuba, donde
+predominaba el elemento de color, levantaron a la sombra del poder
+una dirección política de individuos de raza europea y licenciaron el
+ejército libertador compuesto en su mayoría de hombres de color.
+Cuarta: A las anteriores se añade la división en el terreno espiritual
+tendiente a contrarrestar la indubitada hegemonía del catolicismo
+mediante la elevación al poder de individuos de todas las sectas
+protestantes, y aunque el nacionalismo tiende sus brazos a los prosélitos
+de todos los credos no puede dejar de señalar el hecho histórico y la
+intención y el significado político que en sí encarna el estímulo
+brindado a las fuerzas contrarias a la unidad religiosa del país.
+
+A manera de prólogo y de epílogo se extendió en brillantes
+consideraciones sobre todos los problemas políticos y económicos de
+Puerto Rico. Se refirió, por ejemplo, al canje de la moneda
+demostrando como ab initio se había desvalorizado la propiedad en un
+cuarenta por ciento mediante el cambio del peso por el dólar al tipo de
+sesenta por ciento cuando en la realidad ambas monedas tenían igual
+capacidad adquisitiva. Esta depreciación colectiva y rápida de la
+propiedad unida al ciclón de San Ciriaco, abrió la puerta al latifundismo
+en manos de extranjeros, plaga tan voraz que no fue parte a contenerla
+ni siquiera el esfuerzo de Muñoz Rivera con su tentativa de crear frente
+al latifundista nativo, pues este último, tan pronto prosperó algo,
+también fue enredado en las horribles fauces de las combinaciones
+crematísticas.
+
+Atacó entonces a las grandes corporaciones como causa de la
+decadencia general y hasta de la ruina del físco; la organización de la
+sanidad pública exteriorizando su opinión de que "el aumento de las
+enfermedades en las últimas tres décadas se debe en gran parte a la
+pésima calidad de los artículos ofrecidos al consumo especialmente las
+conservas alimenticias"; la instrucción pública, empeñada en educar a
+párvulos hambrientos a quienes fuera mejor sustentar físicamente con el
+lujoso presupuesto destinado al ramo; y finalmente a los proyectos de
+industrialización del país, imposibles en una colonia sin protección
+arancelaria.
+
+Terminó el señor Albizu Campos su medulosa y elocuente
+disertación exuberante en una multitud de datos rotundos dichos con
+asombrosa precisión y oportunidad y difícil de reconstruir, excitando a
+los mayagüezanos a investigar fríamente los problemas capitales de su
+patria, para que se operase en su seno la saludable reacción que habría
+de reivindicar para la Sultana del Oeste su timbre de honor y su puesto
+de honra que siempre ocupó en el pasado a la vanguardia de nuestras
+luchas civilizadoras y libertadoras. Estruendosos aplausos y muestras de
+general aprobación exteriorizaron los sentimientos del público que con
+
+profunda atención escuchó por espacio de más de dos horas al único
+jefe político que desmenuza ante el pueblo, convirtiendo la tribuna en
+cátedra, los más intrincados problemas nacionales para estudiar
+fundamentalmente las raíces de nuestra postración.
