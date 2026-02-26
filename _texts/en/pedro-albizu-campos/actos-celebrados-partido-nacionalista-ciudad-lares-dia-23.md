@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1932-09-23
 source: Obras Escogidas 1923-1936 (Selected Works)
-source_detail: full citation
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/actos-celebrados-partido-nacionalista-ciudad-lares-dia-23
 spanish_version: /es/textos/pedro-albizu-campos/actos-celebrados-partido-nacionalista-ciudad-lares-dia-23

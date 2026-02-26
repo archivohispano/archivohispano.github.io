@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1936-06-25
 source: Obras Escogidas 1923-1936 (Selected Works)
-source_detail: full citation
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo IV (San Juan: Editorial Jelofe, 2013)"
 country: puerto-rico
 permalink: /en/texts/pedro-albizu-campos/carta-marta-lomar-25-junio-1936
 spanish_version: /es/textos/pedro-albizu-campos/carta-marta-lomar-25-junio-1936

@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1927-01-01
 source: Obras Escogidas 1923-1936
-source_detail: full citation
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/gran-mayoria-puerto-rico-siente-repudiacion-rebeldia-frente
 english_version: /en/texts/pedro-albizu-campos/gran-mayoria-puerto-rico-siente-repudiacion-rebeldia-frente

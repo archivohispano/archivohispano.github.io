@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1936-01-01
 source: Obras Escogidas 1923-1936
-source_detail: full citation
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo III (San Juan: Editorial Jelofe, 2013)"
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/p-albizu-campos-investigacion-sucesos-23-febrero-1936
 english_version: /en/texts/pedro-albizu-campos/p-albizu-campos-investigacion-sucesos-23-febrero-1936

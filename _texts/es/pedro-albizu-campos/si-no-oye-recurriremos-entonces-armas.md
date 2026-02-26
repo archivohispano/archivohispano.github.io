@@ -6,7 +6,7 @@ author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1931-01-01
 source: Obras Escogidas 1923-1936
-source_detail: full citation
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/si-no-oye-recurriremos-entonces-armas
 english_version: /en/texts/pedro-albizu-campos/si-no-oye-recurriremos-entonces-armas
