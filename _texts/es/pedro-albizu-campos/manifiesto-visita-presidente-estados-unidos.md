@@ -4,9 +4,9 @@ lang: es
 title: Manifiesto ante la visita del presidente de Estados Unidos
 author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
-date: 1934-01-01
+date: 1934-06-29
 source: Obras Escogidas 1923-1936
-source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Volume 1"
+source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico
 permalink: /es/textos/pedro-albizu-campos/manifiesto-visita-presidente-estados-unidos
 english_version: /en/texts/pedro-albizu-campos/manifiesto-visita-presidente-estados-unidos

@@ -2,9 +2,9 @@
 layout: text
 lang: es
 title: Cronologia de Pedro Albizu Campos
-author: pedro-albizu-campos
-author_name: Pedro Albizu Campos
-date: 1930-01-01
+author: j-benjamin-torres
+author_name: J. Benjamín Torres
+date: 1975-01-01
 source: Obras Escogidas 1923-1936
 source_detail: "Obras Escogidas 1923-1936, J. Benjamín Torres (publication date approximate: originally part of scholarly edition)"
 country: puerto-rico

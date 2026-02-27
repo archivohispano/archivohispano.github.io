@@ -1,7 +1,7 @@
 ---
 layout: text
 lang: es
-title: "Homenaje a los señores Albizu Campos y Selim Sola: Discurso de Albizu Campos"
+title: "Homenaje a los señores Albizu Campos y Sellés Sola: Discurso de Albizu Campos"
 author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1931-01-01

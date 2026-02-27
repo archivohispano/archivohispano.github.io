@@ -15,7 +15,7 @@ collections:
   - nacionalismo-puertorriqueno
 ---
 
-Para Corretjer: La Patria es valor y sacrificio. Albizu Campos, Río Piedras, enero 20, 1915.
+Para Corretjer: La Patria es valor y sacrificio. Albizu Campos, Río Piedras, enero 20, 1935.
 
 Sombra, sueños, creación, he aquí la escala de la Eternidad.
 Dios lo hizo todo de la Nada, es decir, de la Sombra. De ella sacó también la luz para comprensión humana del secreto creador; pero el mejor entendimiento místico no es posible sin que la luz apague la retina y restituya el imperio de la Sombra.

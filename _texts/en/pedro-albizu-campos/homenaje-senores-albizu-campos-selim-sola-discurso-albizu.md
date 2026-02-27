@@ -1,7 +1,7 @@
 ---
 layout: text
 lang: en
-title: "Homage to Mr. Albizu Campos and Selim Sola: Speech by Albizu Campos"
+title: "Homage to Mr. Albizu Campos and Sellés Sola: Speech by Albizu Campos"
 author: pedro-albizu-campos
 author_name: Pedro Albizu Campos
 date: 1931-01-01

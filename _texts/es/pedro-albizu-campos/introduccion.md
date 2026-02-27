@@ -2,9 +2,9 @@
 layout: text
 lang: es
 title: INTRODUCCION
-author: pedro-albizu-campos
-author_name: Pedro Albizu Campos
-date: 1923-01-01
+author: j-benjamin-torres
+author_name: J. Benjamín Torres
+date: 1975-01-01
 source: Obras Escogidas 1923-1936
 source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo I (San Juan: Editorial Jelofe, 1975)"
 country: puerto-rico

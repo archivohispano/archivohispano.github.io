@@ -15,7 +15,7 @@ collections:
   - nacionalismo-puertorriqueno
 ---
 
-For Corretjer: The Homeland is valor and sacrifice. Albizu Campos, Río Piedras, January 20, 1915.
+For Corretjer: The Homeland is valor and sacrifice. Albizu Campos, Río Piedras, January 20, 1935.
 
 Shadow, dreams, creation — here is the scale of Eternity.
 God made everything from Nothing, that is, from the Shadow. From it He also drew the light for human understanding of the creative secret; but the best mystical irradiation is not possible without the light extinguishing the retina and restoring the empire of the Shadow.

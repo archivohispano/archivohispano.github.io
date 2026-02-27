@@ -8,8 +8,8 @@ date: 1936-07-11
 source: Obras Escogidas 1923-1936 (Selected Works)
 source_detail: "Pedro Albizu Campos, Obras Escogidas 1923-1936, Tomo IV (México D.F.: Editorial Claves Latinoamericanas, 1987)"
 country: puerto-rico
-permalink: /en/texts/pedro-albizu-campos/carta-marta-lomar-11-junio-1936
-spanish_version: /es/textos/pedro-albizu-campos/carta-marta-lomar-11-junio-1936
+permalink: /en/texts/pedro-albizu-campos/carta-marta-lomar-11-julio-1936
+spanish_version: /es/textos/pedro-albizu-campos/carta-marta-lomar-11-julio-1936
 collections:
   - independencia-puerto-rico
   - cartas
