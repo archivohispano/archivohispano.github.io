@@ -78,56 +78,11 @@ Puerto Rico consisted of more than 10,000 men perfectly equip-
 equipped with superior weaponry. Suffice it to say that the army of
 Puerto Rico used the best projectiles of that time;
 used smokeless powder. The Yankee troops landed
-with black powder. That explains why Captain Acha, a
+with black powder. That explains why Captain Acha, a champion of democracy, equity, liberty and fraternity of men, said that Puerto Rico could already trust in the goodness of the United States Congress. But those words were not incorporated into the peace treaty. They are words that appear in the minutes of the peace treaty discussion. The North American delegation gave an ultimatum that only one clause should be included: "Spain cedes Puerto Rico."
 
-[Page 13 error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
-Please retry in 31.738085287s. [links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
-  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
-  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
-  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-, retry_delay {
-  seconds: 31
-}
-]]
+What rights did Spain have in Puerto Rico, to cede Puerto Rico? If Spain had no rights to cede, the United States had no rights to receive; and the United States could not ask Spain for the cession of anything that Spain had no right to cede.
+
+Puerto Rico was then governed by the autonomous government under the direction of Muñoz Rivera, by virtue of the constitutional charter, the Great Autonomic Charter that we have analyzed legally on different occasions. We reiterate that it provided for the cessation of sovereignty that the Spanish nation could exercise over the nation of Puerto Rico. And it provided that relations between the two nations should be regulated, after the promulgation of the Autonomic Charter, on the basis of treaties, from power to power, and that not even its parliament could alter the Autonomic Charter without the consent of the nation of Puerto Rico through its legally constituted bodies. In matters of treaties, it explicitly provided that it could negotiate treaties with all powers through its own plenipotentiaries. It provided that no treaty made by Spain was binding on Puerto Rico, if that treaty was not submitted to ratification by the Parliament of Puerto Rico. Our nation was governed by a parliamentary system of government. For those not versed in those terms, I mean that the Captain General in Puerto Rico could not do anything without the approval of one of his ministers. Which means that, like the king in a constitutional monarchy, he could not do anything without the advice of a minister or his ministers, that is, he reigned but did not govern. And those ministers were all Puerto Ricans, elected by the nation of Puerto Rico, or nominated to the Upper Chamber in accordance with the Autonomic Charter. And they were responsible to the
 
 Constitution we owe fidelity, and there is no
 court that can say which clause we owe fi-

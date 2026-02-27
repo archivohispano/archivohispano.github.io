@@ -84,56 +84,11 @@ Puerto Rico más de 10,000 hombres perfectamente equipa-
 dos de armamento superior. Basta decir que el ejército de
 Puerto Rico usaba los mejores proyectiles de aquel tiempo;
 usaba pólvora sin humo. Las tropas yanquis desembarcaron
-con pólvora negra. Por eso se explica que el Capitán Acha, un
+con pólvora negra. Por eso se explica que el Capitán Acha, un centro de la democracia, la equidad, la libertad y la fraternidad de los hombres, y que ya podía confiar Puerto Rico en la bondad del Congreso de Estados Unidos. Pero esas palabras no se incorporaron al tratado de paz. Son palabras que constan en las minutas de la discusión del tratado de paz. La delegación norteamericana dio un ultimátum de que allí se consignara solamente una cláusula: "España cede a Puerto Rico".
 
-[Page 13 error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
-Please retry in 31.738085287s. [links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
-  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
-  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
-  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemini-2.0-flash"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-}
-, retry_delay {
-  seconds: 31
-}
-]]
+¿Qué derechos tenía España en Puerto Rico, para ceder a Puerto Rico? Si España no tenía derechos que ceder, Estados Unidos no tenía derechos que recibir; y Estados Unidos no podía pedir a España cesión de nada que España no tenía derecho a ceder.
+
+Gobernaba a Puerto Rico entonces el gobierno autonómico bajo la dirección de Muñoz Rivera, en virtud de la carta constitucional, la Gran Carta Autonómica que hemos analizado jurídicamente en distintas ocasiones. Repetimos que disponía el cese de soberanía que pudiera ejercer la nación española sobre la nación de Puerto Rico. Y disponía que las relaciones entre las dos naciones debían regularse, después de la promulgación de la Carta Autonómica, a base de tratados, de poder a poder, y ni su parlamento podía alterar la Carta Autonómica sin el consentimiento de la nación de Puerto Rico a través de sus organismos constituídos legalmente. En materia de tratados, disponía taxativamente que podía negociar tratados con todos los poderes a través de sus propios plenipotenciarios. Disponía que ningún tratado que hiciera España obligaba a Puerto Rico, si ese tratado no era sometido a la ratificación del Parlamento de Puerto Rico. Regía nuestra nación un sistema de gobierno parlamentario. Para los no versados en esos términos, quiero decir, que el Capitán General en Puerto Rico no podía hacer nada sin el visto bueno de uno de sus ministros. Lo que significa que, como el rey en una monarquía constitucional, no podía hacer nada sin el consejo de un ministro o de sus ministros, o sea, que reinaba pero no gobernaba. Y esos ministros eran todos puertorriqueños, elegidos por la nación de Puerto Rico, o nominados a la Cámara Alta de acuerdo con la Carta Autonómica. Y eran responsables al
 
 Constitución debemos nosotros fidelidad, y no hay ningún
 tribunal que pueda decir a qué cláusula nosotros debemos fi-
